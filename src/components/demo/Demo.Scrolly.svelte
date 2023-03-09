@@ -1,13 +1,16 @@
 <script>
 	import Scrolly from "$components/helpers/Scrolly.svelte";
 	import * as textdata from "$data/texts.json";
-	import SvelteMarkdown from 'svelte-markdown'
+	import SvelteMarkdown from 'svelte-markdown';
+	import {fade} from 'svelte/transition';
 	let myText;
 	let value;
 	let key = 'Gräberfeld';
 </script>
 
-<section id="scrolly" style="background-image: url({textdata.de[key].sections.at(value).img})" class="has-fixed-background">
+<!-- <section id="scrolly" transition:fade style="background-image: url({textdata.de[key].sections.at(value).img})" class="has-fixed-background"> -->
+<section id="scrolly">
+	
 	<h1>{key}</h1>
 	<blockquote>
 		{textdata.de[key].blockquote}
@@ -17,6 +20,7 @@
 	{#if textdata.de[key].sections.at(value).h2 != ""}
 		<h2>{textdata.de[key].sections.at(value).h2}</h2>
 	{/if}
+	<img transition:fade src={textdata.de[key].sections.at(value).img} alt="" />
 	<Scrolly bind:value>
 		{#each textdata.de[key].sections as item, i}
 			{@const active = value === i}
@@ -37,8 +41,16 @@
 		top: 1em;
 	}
 
+	img  {
+		position: sticky;
+		margin-top: 1em;
+		top: 10em;
+		z-index: -10;
+		transition: all 00ms ease;
+	}
+
 	.spacer {
-		height: 80vh;
+		height: 50vh;
 	}
 
 	.step {

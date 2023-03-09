@@ -31,19 +31,6 @@
 </script>
 
 <footer>
-	<section class="stories">
-		{#each stories as { hed, url, image }}
-			<div class="story">
-				<a href="https://pudding.cool/{url}">
-					<img
-						src="https://pudding.cool/common/assets/thumbnails/640/{image}.jpg"
-						alt="thumbnail"
-					/>
-					<span>{hed}</span>
-				</a>
-			</div>
-		{/each}
-	</section>
 
 	<section class="about">
 		<div class="wordmark">
