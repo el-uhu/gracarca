@@ -7,7 +7,7 @@
 :root {
 	/* font */
 	--sans: "Archivo Light", -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif;
-	--serif: "Tiempos Text Web", Iowan Old Style, Times New Roman, Times, serif;
+	--serif: "Infini Bold", Iowan Old Style, Times New Roman, Times, serif;
 	--mono: Menlo, Consolas, Monaco, monospace;
 
 	/* z-index */
@@ -21,18 +21,18 @@
 	--font-body: var(--serif);
 	--font-form: var(--sans);
 	--color-bg: var(--color-bg-cream);
-	--color-fg: var(--color-gray-900);
-	--color-primary: var(--color-black);
-	--color-link: var(--color-black);
-	--color-focus: var(--color-red);
-	--color-mark: var(--color-yellow);
+	--color-fg: var(--color-t-blue);
+	--color-primary: var(--color-h-blue);
+	--color-link: var(--color-q-red);
+	--color-focus: var(--color-q-red);
+	--color-mark: var(--color-h-blue);
 	--color-selection: var(--color-gray-300);
-	--color-border: var(--color-gray-300);
-	--color-button-bg: var(--color-gray-300);
-	--color-button-fg: var(--color-gray-900);
-	--color-button-hover: var(--color-gray-400);
-	--color-input-bg: var(--color-gray-50);
-	--color-input-fg: var(--color-gray-900);
+	--color-border: var(--color-bg-cream);
+	--color-button-bg: var(--color-h-blue);
+	--color-button-fg: var(--color-t-blue);
+	--color-button-hover: var(--color-q-red);
+	--color-input-bg: var(--color-bg-cream);
+	--color-input-fg: var(--color-t-blue);
 	--color-placeholder: var(--color-gray-500);
 
 	/* "1" second duration */
@@ -92,10 +92,12 @@ h6 {
 	font-size: var(--20px, 20px);
 }
 
-#text, label, legend {
+#text, label {
 	font-family: "Archivo" !important;
+	
 }
 
-h1, h2, h3, h4, h5, h6, th {
+h1, h2, h3, h4, h5, h6, th, legend {
 	font-family: "Infini Bold" !important;
+	color: var(--color-h-blue);
 }
