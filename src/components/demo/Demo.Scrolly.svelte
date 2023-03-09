@@ -1,36 +1,69 @@
 <script>
 	import Scrolly from "$components/helpers/Scrolly.svelte";
+	import * as textdata from "$data/texts.json";
+	import SvelteMarkdown from 'svelte-markdown'
+	let myText;
 	let value;
+	let key = 'Gräberfeld';
 </script>
 
-<section id="scrolly">
-	<h2>Scrolly <span>{value}</span></h2>
-	<div class="spacer" />
+<section id="scrolly" style="background-image: url({textdata.de[key].sections.at(value).img})" class="has-fixed-background">
+	<h1>{key}</h1>
+	<blockquote>
+		{textdata.de[key].blockquote}
+	</blockquote>
+	<cite>{textdata.de[key].cite}</cite>
+
+	{#if textdata.de[key].sections.at(value).h2 != ""}
+		<h2>{textdata.de[key].sections.at(value).h2}</h2>
+	{/if}
 	<Scrolly bind:value>
-		{#each [0, 1, 2, 3, 4] as text, i}
+		{#each textdata.de[key].sections as item, i}
 			{@const active = value === i}
 			<div class="step" class:active>
-				<p>{text}</p>
+				{#if item.body != ""}
+					<div class="step-content">
+						<SvelteMarkdown source={item.body}/>
+					</div>
+				{/if}
 			</div>
 		{/each}
 	</Scrolly>
-	<div class="spacer" />
 </section>
 
 <style>
 	h2 {
 		position: sticky;
-		top: 4em;
+		top: 1em;
 	}
 
 	.spacer {
-		height: 75vh;
+		height: 80vh;
 	}
 
 	.step {
-		height: 80vh;
-		background: var(--color-gray-100);
-		text-align: center;
+		height: 85vh;
+		display: flex;
+		place-items: center;
+		justify-content: center;
+	}
+
+	.step-content {
+		background: var(--color-bg-cream-transparent);
+		text-align: left;
+		width: 100%;
+		padding: .5rem 1rem;
+		box-shadow: 1px 1px 10px rgba(0, 0, 0, .2);
+		transition: background 500ms ease, color 500ms ease;
+	}
+
+	.step-content > p, em, b {
+		vertical-align: middle !important;
+	}
+
+	.step.active .step-content {
+		opacity: 1;
+		transition: background 500ms ease, color 500ms ease;
 	}
 
 	.step p {

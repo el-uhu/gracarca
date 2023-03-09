@@ -18,14 +18,14 @@
 
 	/* presets (used in reset.css) */
 	--border-radius: 2px;
-	--font-body: var(--serif);
+	--font-body: var(--sans);
 	--font-form: var(--sans);
 	--color-bg: var(--color-bg-cream);
 	--color-fg: var(--color-t-blue);
 	--color-primary: var(--color-h-blue);
 	--color-link: var(--color-q-red);
 	--color-focus: var(--color-q-red);
-	--color-mark: var(--color-h-blue);
+	--color-mark: var(--color-t-blue);
 	--color-selection: var(--color-gray-300);
 	--color-border: var(--color-bg-cream);
 	--color-button-bg: var(--color-h-blue);
@@ -100,20 +100,48 @@ h6 {
 h1, h2, h3, h4, h5, h6, th, legend {
 	font-family: "Infini Bold" !important;
 	color: var(--color-h-blue);
+	padding: 2px;
+	background-color: var(--color-bg-cream-transparent);
+}
+
+h1 {
+	color: var(--color-t-blue) !important;
 }
 
 article > h2{
 	font-family: "Infini Bold" !important;
 	color: var(--color-t-blue) !important;
-	background: var(--color-bg-cream) !important;
+	background: var(--color-bg-cream-transparent) !important;
 	padding: 0px !important;
 }
 
-b, strong, label {
+b, strong, label, input, button {
 	font-family: "Infini Bold" !important;
 }
 
-q, cite {
+q, cite, blockquote {
 	font-family: "Infini Bold" !important;
+	font-weight: 300;
 	color: var(--color-q-red);
+	padding: 2px;
+	background-color: var(--color-bg-cream-transparent);
+}
+
+.no-background {
+	background: none  !important;
+}
+
+/* style scrolly background images */
+.has-fixed-background {
+	background-size:contain; 
+	background-position: center;
+	background-attachment: fixed; 
+	background-repeat: no-repeat;
+}
+
+/* style inline images */
+p > img {
+	float: left;
+	height: 250px;
+	margin-right: 10px;
 }

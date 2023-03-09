@@ -13,8 +13,8 @@
 </script>
 
 <div id="demo">
-	<h1>Gracarca</h1>
-	<DemoLink />
+	<!-- <h1>Gracarca</h1> -->
+	<!-- <DemoLink />
 	<DemoImg />
 	<DemoButtonSet />
 	<DemoRange />
@@ -23,7 +23,7 @@
 	<DemoSortTable />
 	<DemoLayerCake />
 	<DemoSvelteElement />
-	<DemoSvelteComponent />
+	<DemoSvelteComponent /> -->
 	<DemoScrolly />
 </div>
 

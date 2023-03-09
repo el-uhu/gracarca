@@ -14,7 +14,8 @@
   --color-black: #000000;
   --color-white: #ffffff;
   --color-gray-50: #f7f7f7;
-  --color-gray-100: #efefef;
+  --color-gray-100: #efefefef;
+  --color-gray-100-20: #efefef22;
   --color-gray-200: #dfdfdf;
   --color-gray-300: #cacaca;
   --color-gray-400: #a8a8a8;
@@ -33,6 +34,7 @@
   --color-t-blue: #465059;
   --color-q-red: #8d4559;
   --color-bg-cream: #fcf7f1;
+  --color-bg-cream-transparent: #fcf7f1dd;
   --12px: 0.75rem;
   --14px: 0.875rem;
   --16px: 1rem;
