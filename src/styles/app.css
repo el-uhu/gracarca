@@ -101,3 +101,19 @@ h1, h2, h3, h4, h5, h6, th, legend {
 	font-family: "Infini Bold" !important;
 	color: var(--color-h-blue);
 }
+
+article > h2{
+	font-family: "Infini Bold" !important;
+	color: var(--color-t-blue) !important;
+	background: var(--color-bg-cream) !important;
+	padding: 0px !important;
+}
+
+b, strong, label {
+	font-family: "Infini Bold" !important;
+}
+
+q, cite {
+	font-family: "Infini Bold" !important;
+	color: var(--color-q-red);
+}
