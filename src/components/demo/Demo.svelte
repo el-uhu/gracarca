@@ -13,7 +13,7 @@
 </script>
 
 <div id="demo">
-	<h1>Demo</h1>
+	<h1>Gracarca</h1>
 	<DemoLink />
 	<DemoImg />
 	<DemoButtonSet />
