@@ -1,6 +1,8 @@
 import { readFileSync } from "fs";
 import adapterStatic from "@sveltejs/adapter-static";
 import sveltePreprocess from "svelte-preprocess";
+import seqPreprocessor from 'svelte-sequential-preprocessor';
+import { preprocessThrelte } from '@threlte/preprocess';
 import autoprefixer from "autoprefixer";
 
 
@@ -10,14 +12,15 @@ const dir = subdirectory || "";
 const prefix = dir.startsWith("/") ? "" : "/";
 const base = dev || !dir ? "" : `${prefix}${dir}`;
 
-const preprocess = sveltePreprocess({
-	postcss: {
-		plugins: [autoprefixer]
-	}
-});
 
 const config = {
-	preprocess,
+	preprocess: seqPreprocessor([
+		sveltePreprocess({
+			postcss: {
+				plugins: [autoprefixer]
+			}
+		}), 
+		preprocessThrelte()]),
 	kit: {
 		adapter: adapterStatic(),
 		paths: {

@@ -14,16 +14,16 @@
 
 <div id="demo">
 	<!-- <h1>Gracarca</h1> -->
-	<!-- <DemoLink />
-	<DemoImg />
-	<DemoButtonSet />
-	<DemoRange />
-	<DemoSelect />
-	<DemoToggle />
-	<DemoSortTable />
-	<DemoLayerCake />
-	<DemoSvelteElement />
-	<DemoSvelteComponent /> -->
+	<!-- <DemoLink /> -->
+	<!-- <DemoImg /> -->
+	<!-- <DemoButtonSet /> -->
+	<!-- <DemoRange /> -->
+	<!-- <DemoSelect /> -->
+	<!-- <DemoToggle /> -->
+	<!-- <DemoSortTable /> -->
+	<!-- <DemoLayerCake /> -->
+	<!-- <DemoSvelteElement /> -->
+	<!-- <DemoSvelteComponent /> -->
 	<DemoScrolly />
 </div>
 

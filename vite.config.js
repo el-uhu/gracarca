@@ -29,6 +29,9 @@ const config = {
 			"$svg": path.resolve("./src/svg"),
 			"$utils": path.resolve("./src/utils")
 		}
+	},
+	ssr: {
+		noExternal: ['three', 'troika-three-text']
 	}
 };
 

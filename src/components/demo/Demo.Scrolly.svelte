@@ -9,9 +9,11 @@
 </script>
 
 <!-- <section id="scrolly" transition:fade style="background-image: url({textdata.de[key].sections.at(value).img})" class="has-fixed-background"> -->
+	<h1>{key}</h1>
 <section id="scrolly">
 	
-	<h1>{key}</h1>
+
+	<img transition:fade src={textdata.de[key].sections.at(value).img} alt="" />
 	<blockquote>
 		{textdata.de[key].blockquote}
 	</blockquote>
@@ -20,7 +22,7 @@
 	{#if textdata.de[key].sections.at(value).h2 != ""}
 		<h2>{textdata.de[key].sections.at(value).h2}</h2>
 	{/if}
-	<img transition:fade src={textdata.de[key].sections.at(value).img} alt="" />
+
 	<Scrolly bind:value>
 		{#each textdata.de[key].sections as item, i}
 			{@const active = value === i}
