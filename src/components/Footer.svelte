@@ -10,14 +10,16 @@
 <footer>
 
 	<section class="about">
-		<div class="wordmark">
-			{@html wordmark}
+		<div class="header-mark">
+			<a href="https://pudding.cool" aria-label="The Pudding">
+				<p>
+					<span class="header-text1"> Grabelsdorf</span>
+					<img src="/img/gracarca-logo.png" alt="gracarca logo" class="header-logo" display="inline">
+					<span class="header-text2"> Grabalja vas</span>
+					<p></p>
+				</p>	
+			</a>
 		</div>
-		<p>
-			<a href="https://pudding.cool">The Pudding</a>
-			is a digital publication that explains ideas debated in culture with visual
-			essays.
-		</p>
 	</section>
 
 	<section class="links">
@@ -25,7 +27,11 @@
 			{#each links as link}
 				<li>
 					<a href={link.url}>
-						<span>{link.name.toUpperCase()}</span>
+						<span>
+							<b>
+								{link.name.toUpperCase()}
+							</b>
+						</span>
 					</a>
 				</li>
 			{/each}
