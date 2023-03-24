@@ -1,5 +1,5 @@
 <script>
-	import wordmark from "$svg/wordmark.svg";
+	import { base } from '$app/paths';
 
 	const links = [
 		{ name: "Biotop*", url: "https://biotop.co" }
@@ -11,7 +11,7 @@
 
 	<section class="about">
 		<div class="header-mark">
-			<a href="https://pudding.cool" aria-label="The Pudding">
+			<a href={base} aria-label="The Pudding">
 				<p>
 					<span class="header-text1"> Grabelsdorf</span>
 					<img src="/img/gracarca-logo.png" alt="gracarca logo" class="header-logo" display="inline">
@@ -53,39 +53,6 @@
 		color: var(--color-bg);
 	}
 
-	.stories {
-		margin: 0 auto;
-		display: flex;
-		flex-wrap: wrap;
-		justify-content: space-between;
-		max-width: 70em;
-	}
-
-	.story {
-		display: block;
-		width: 100%;
-		border: none;
-		margin-bottom: 3rem;
-	}
-
-	.story a {
-		display: block;
-		font-weight: 700;
-		text-decoration: none;
-		border: none;
-	}
-
-	.story span {
-		display: block;
-		margin-top: 1em;
-		line-height: 1.2;
-	}
-
-	.wordmark {
-		max-width: 10em;
-		margin: 1em auto;
-	}
-
 	.about {
 		margin: 3rem auto;
 		margin-top: 0;
@@ -112,19 +79,5 @@
 
 	.links span {
 		margin-left: 0.5em;
-	}
-
-	@media only screen and (min-width: 30em) {
-		.story {
-			width: 50%;
-			padding: 0 1em;
-		}
-	}
-
-	@media only screen and (min-width: 50em) {
-		.story {
-			width: 25%;
-			padding: 0 1em;
-		}
 	}
 </style>

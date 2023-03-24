@@ -8,8 +8,5 @@
 	const copy = getContext("copy");
 	const data = getContext("data");
 </script>
-
-<Meta />
-
 <Gracarca />
 <Footer />

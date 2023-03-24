@@ -24,7 +24,7 @@ const config = {
 	kit: {
 		adapter: adapterStatic(),
 		paths: {
-			base
+			base : '/gracarca'
 		},
 	},
 	vitePlugin: {

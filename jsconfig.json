@@ -1,6 +1,6 @@
 {
 	"compilerOptions": {
-		"baseUrl": ".",
+		"baseUrl": "https://el-uhu.github.io/gracarca",
 		"paths": {
 			"$lib": [
 				"src"

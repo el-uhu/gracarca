@@ -163,6 +163,10 @@ section.content-section {
 	justify-self: center;
 }
 
+header {
+	background-color: none !important;
+}
+
 .header-mark {
 	max-width: 20em;
 	margin: 0 auto;

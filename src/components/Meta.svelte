@@ -4,6 +4,8 @@
 	export let url = "";
 	export let keywords = "";
 	export let preloadFont = [];
+	import { base } from '$app/paths'
+	
 </script>
 
 <svelte:head>
@@ -26,4 +28,5 @@
 	{#each preloadFont as href}
 		<link rel="preload" {href} as="font" type="font/woff2" crossorigin />
 	{/each}
+	<base href={base} target="_blank">
 </svelte:head>

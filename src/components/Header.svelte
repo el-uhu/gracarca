@@ -1,9 +1,10 @@
 <script>
+	import { base } from '$app/paths'
 </script>
 
 <header>
 	<div class="header-mark">
-		<a href="https://pudding.cool" aria-label="The Pudding">
+		<a href={base} aria-label="Gracarca">
 			<p>
 				<span class="header-text1"> Grabelsdorf</span>
 				<img src="/img/gracarca-logo.png" alt="gracarca logo" class="header-logo" display="inline">
@@ -13,25 +14,3 @@
 		</a>
 	</div>
 </header>
-
-<style>
-	.wordmark {
-		max-width: 10em;
-		margin: 0 auto;
-		padding: 1em 0;
-	}
-
-	.wordmark a {
-		border: none;
-		display: block;
-		color: var(--color-fg);
-	}
-
-	.wordmark a:hover {
-		background-color: transparent;
-	}
-
-	:global(.wordmark svg path) {
-		fill: currentColor;
-	}
-</style>
