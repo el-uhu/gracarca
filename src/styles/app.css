@@ -191,3 +191,7 @@ section.content-section {
 	font-size: 1.2em;
 	color: var(--color-fg)
 }
+
+footer {
+	background-color: var(--color-gray-300) !important;
+}
