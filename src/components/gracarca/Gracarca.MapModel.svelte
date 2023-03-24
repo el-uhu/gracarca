@@ -5,8 +5,9 @@
     import { spring } from 'svelte/motion'
 	import { degToRad } from 'three/src/math/MathUtils'
 
-    let pos = [-165, 635, 1084]
-    let rot = [-270, 0, 0]
+    let pos = [-113.6, 1500, -37.7]
+    let rot = [degToRad(-90), degToRad(0), degToRad(0)]
+
     export let camera
     $: console.log(camera);
 
@@ -14,7 +15,7 @@
 
 <div class="canvascontainer">
 	<Canvas>
-        <T.PerspectiveCamera bind:ref={camera} makeDefault position={pos} rotation={rot} fov={75} far={10000}>
+        <T.PerspectiveCamera bind:ref={camera} makeDefault position={pos} rotation={rot} fov={75} far={7500}>
             <OrbitControls maxPolarAngle={degToRad(80)} enableZoom={true}} />
         </T.PerspectiveCamera>
         
