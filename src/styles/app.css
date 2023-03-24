@@ -151,4 +151,12 @@ p > img {
 	height: auto;
 }
 
+#content {
+	display: grid;
+}
+
+section {
+	max-width: 500px;
+	justify-self: center;
+}
 

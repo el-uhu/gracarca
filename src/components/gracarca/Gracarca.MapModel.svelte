@@ -16,7 +16,7 @@
 <div class="canvascontainer">
 	<Canvas>
         <T.PerspectiveCamera bind:ref={camera} makeDefault position={pos} rotation={rot} fov={75} far={7500}>
-            <OrbitControls maxPolarAngle={degToRad(80)} enableZoom={true}} />
+            <OrbitControls/>
         </T.PerspectiveCamera>
         
         <GLTF url="/models/Gracarca_SkyView_Weg_Tafeln_2023-03-22.gltf"/>
