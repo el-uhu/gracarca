@@ -3,10 +3,9 @@
     import { T, OrbitControls } from '@threlte/core'
 	import { GLTF, useGltfAnimations } from '@threlte/extras'
     import { spring } from 'svelte/motion'
-	import { degToRad } from 'three/src/math/MathUtils'
+    import { degToRad } from 'three/src/math/MathUtils'
 
-    let pos = [-113.6, 1500, -37.7]
-    let rot = [degToRad(-90), degToRad(0), degToRad(0)]
+    export let cameraSettings;
 
     export let camera
     $: console.log(camera);
@@ -15,8 +14,10 @@
 
 <div class="canvascontainer">
 	<Canvas>
-        <T.PerspectiveCamera bind:ref={camera} makeDefault position={pos} rotation={rot} fov={75} far={7500}>
-            <OrbitControls/>
+        <T.PerspectiveCamera bind:ref={camera} makeDefault position={cameraSettings.pos} rotation={cameraSettings.rot} fov={75} far={7500}>
+            {#if cameraSettings.orbitcontrols == true}
+                <OrbitControls/>
+            {/if}
         </T.PerspectiveCamera>
         
         <GLTF url="/models/Gracarca_SkyView_Weg_Tafeln_2023-03-22.gltf"/>

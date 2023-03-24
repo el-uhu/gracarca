@@ -155,6 +155,9 @@ p > img {
 	display: grid;
 }
 
+.canvascontainer {
+}
+
 section {
 	max-width: 500px;
 	justify-self: center;
