@@ -29,11 +29,10 @@
 
 </script>
 
-<!-- <GracarcaHero title="Gracarca"/> -->
 <GracarcaMapModel cameraSettings={cameraSettings["base"]}/>
 
 {#each Object.entries(textdata.de) as [title, content]}
-	<section id={title}>
+	<section id={title} class="content-section">
 		<h1> {title}</h1>
 		{#if 'blockquote' in content}
 			<blockquote>{content.blockquote}</blockquote>

@@ -158,8 +158,36 @@ p > img {
 .canvascontainer {
 }
 
-section {
+section.content-section {
 	max-width: 500px;
 	justify-self: center;
 }
 
+.header-mark {
+	max-width: 20em;
+	margin: 0 auto;
+	padding: 1em 0;
+	display: flex;
+	justify-content: center;
+}
+
+.header-mark > a {
+	border-bottom: none;
+}
+
+.header-logo {
+	display: inline;
+	height: 1.5em;
+}
+
+.header-text1 {
+	font-family: var(--serif);
+	font-size: 1.2em;
+	color: var(--color-primary);
+}
+
+.header-text2 {
+	font-family: var(--serif);
+	font-size: 1.2em;
+	color: var(--color-fg)
+}

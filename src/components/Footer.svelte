@@ -1,33 +1,10 @@
 <script>
-	import { onMount } from "svelte";
 	import wordmark from "$svg/wordmark.svg";
 
-	let localURL;
-	let stories = [];
-
-	const v = Date.now();
-	const url = `https://pudding.cool/assets/data/stories.json?v=${v}`;
-
 	const links = [
-		{ name: "about", url: "https://pudding.cool/about" },
-		{ name: "facebook", url: "https://facebook.com/pudding.viz/" },
-		{ name: "twitter", url: "https://twitter.com/puddingviz/" },
-		{
-			name: "instagram",
-			url: "https://www.instagram.com/the.pudding"
-		},
-		{ name: "patreon", url: "https://patreon.com/thepudding/" },
-		{ name: "privacy", url: "https://pudding.cool/privacy/" },
-		{ name: "newsletter", url: "https://thepuddingmail.substack.com" },
-		{ name: "rss", url: "https://pudding.cool/feed/index.xml" }
+		{ name: "Biotop*", url: "https://biotop.co" }
 	];
 
-	onMount(async () => {
-		localURL = window.location.href;
-		const response = await fetch(url);
-		const data = await response.json();
-		stories = data.filter((d) => !localURL.includes(d.url)).slice(0, 4);
-	});
 </script>
 
 <footer>
