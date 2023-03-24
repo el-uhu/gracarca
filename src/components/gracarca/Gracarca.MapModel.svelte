@@ -1,4 +1,5 @@
 <script>
+    import { base } from '$app/paths';
 	import { Canvas } from '@threlte/core'
     import { T, OrbitControls } from '@threlte/core'
 	import { GLTF, useGltfAnimations } from '@threlte/extras'
@@ -20,7 +21,7 @@
             {/if}
         </T.PerspectiveCamera>
         
-        <GLTF url="/models/Gracarca_SkyView_Weg_Tafeln_2023-03-22.gltf"/>
+        <GLTF url={base + "/models/Gracarca_SkyView_Weg_Tafeln_2023-03-22.gltf"}/>
 	</Canvas>
 </div>
 

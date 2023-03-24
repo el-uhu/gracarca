@@ -1,13 +1,11 @@
 <script>
+	import { base } from '$app/paths';
 	import * as textdata from "$data/texts.json";
 
 	import GracarcaBody from "$components/gracarca/Gracarca.Body.svelte";
     import GracarcaHero from "$components/gracarca/Gracarca.Hero.svelte";
 	import GracarcaMapModel from "$components/gracarca/Gracarca.MapModel.svelte"
 	import { degToRad } from 'three/src/math/MathUtils'
-
-    let key = 'Gräberfeld';
-    let imgPath = "/img/02/gracarca.png"
 
 	let cameraSettings = {
 		"base" : {

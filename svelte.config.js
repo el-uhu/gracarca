@@ -22,10 +22,16 @@ const config = {
 		}), 
 		preprocessThrelte()]),
 	kit: {
-		adapter: adapterStatic(),
+		adapter: adapterStatic({
+			pages: 'build',
+			assets: 'build',
+			fallback: null,
+			precompress: false,
+			strict: true
+		}),
 		paths: {
 			base : '/gracarca'
-		},
+		}
 	},
 	vitePlugin: {
 		experimental: {

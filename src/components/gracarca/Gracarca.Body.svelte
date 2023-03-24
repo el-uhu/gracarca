@@ -1,5 +1,6 @@
 <script>
     import SvelteMarkdown from 'svelte-markdown';
+    import { base } from '$app/paths';
 
     export let content;
 </script>
