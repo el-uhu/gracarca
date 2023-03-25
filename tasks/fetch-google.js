@@ -1,8 +1,12 @@
 import fs from "fs";
-import archieml from "archieml";
 import docs from "../google.config.js";
 
 const CWD = process.cwd();
+
+const hdr = '\n' +
+'<script>\n' +
+'import { base } from "$app/paths";\n' +
+'</script>\n\n'
 
 const fetchGoogle = async ({ id, gid }) => {
 	console.log(`fetching...${id}`);
@@ -19,9 +23,8 @@ const fetchGoogle = async ({ id, gid }) => {
 
 		if (gid) return text;
 
-		const parsed = archieml.load(text);
-		const str = JSON.stringify(parsed);
-		return str;
+		console.log(text);
+		return text;
 	} catch (err) {
 		throw new Error(err);
 	}
@@ -32,7 +35,7 @@ const fetchGoogle = async ({ id, gid }) => {
 		try {
 			const str = await fetchGoogle(d);
 			const file = `${CWD}/${d.filepath}`;
-			fs.writeFileSync(file, str);
+			fs.writeFileSync(file, hdr + str);
 		} catch (err) {
 			console.log(err);
 		}
