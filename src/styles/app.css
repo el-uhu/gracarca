@@ -160,8 +160,12 @@ section.content-section {
 	justify-self: center;
 	padding-left: 1em;
 	padding-right: 1em;
+}
+
+section.content-section > p {
 	text-align: justify;
 }
+
 
 header {
 	background-color: none !important;
