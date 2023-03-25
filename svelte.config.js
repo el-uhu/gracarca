@@ -36,7 +36,7 @@ const config = {
 		}),
 		paths: {
 			base : '/gracarca',
-			relative: true
+			relative: false
 		}
 	},
 	vitePlugin: {
