@@ -1,8 +1,7 @@
 <script>
 	import { base } from '$app/paths';
-	import * as textdata from "$data/texts.json";
+	import TextsGerman from "$data/texts.svx";
 
-	import GracarcaBody from "$components/gracarca/Gracarca.Body.svelte";
     import GracarcaHero from "$components/gracarca/Gracarca.Hero.svelte";
 	import GracarcaMapModel from "$components/gracarca/Gracarca.MapModel.svelte"
 	import { degToRad } from 'three/src/math/MathUtils'
@@ -29,22 +28,11 @@
 
 <GracarcaMapModel cameraSettings={cameraSettings["base"]}/>
 
-{#each Object.entries(textdata.de) as [title, content]}
-	<section id={title} class="content-section">
-		<h1> {title}</h1>
-		{#if 'blockquote' in content}
-			<blockquote>{content.blockquote}</blockquote>
-			<cite>{content.cite}</cite>
-		{/if}
-
-		{#if content.body != ""}
-			<GracarcaBody content={content.body} />
-		{/if}
+<div id="gracarca">
+	<section class="content-section">
+		<TextsGerman />
 	</section>
-	<GracarcaMapModel cameraSettings={cameraSettings[title]}/>
-
-{/each}
-
+</div>
 
 <style>
 	#gracarca {

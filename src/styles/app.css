@@ -155,12 +155,12 @@ p > img {
 	display: grid;
 }
 
-.canvascontainer {
-}
-
 section.content-section {
 	max-width: 500px;
 	justify-self: center;
+	padding-left: 1em;
+	padding-right: 1em;
+	text-align: justify;
 }
 
 header {

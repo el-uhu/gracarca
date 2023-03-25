@@ -1,11 +1,10 @@
 <script>
+	import { base } from '$app/paths'
 	export let title = "Gracarca";
 	export let description = "";
-	export let url = "";
+	export let url = base;
 	export let keywords = "";
 	export let preloadFont = [];
-	import { base } from '$app/paths'
-	
 </script>
 
 <svelte:head>

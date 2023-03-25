@@ -4,6 +4,7 @@ import sveltePreprocess from "svelte-preprocess";
 import seqPreprocessor from 'svelte-sequential-preprocessor';
 import { preprocessThrelte } from '@threlte/preprocess';
 import autoprefixer from "autoprefixer";
+import { mdsvex } from 'mdsvex';
 
 
 const { subdirectory } = JSON.parse(readFileSync("package.json", "utf8"));
@@ -14,7 +15,11 @@ const base = dev || !dir ? "" : `${prefix}${dir}`;
 
 
 const config = {
+	extensions: ['.svelte', '.svx', '.md'],
 	preprocess: seqPreprocessor([
+		mdsvex({
+			extensions: ['.md', '.svx'],
+		}),
 		sveltePreprocess({
 			postcss: {
 				plugins: [autoprefixer]

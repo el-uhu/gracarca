@@ -1,0 +1,42 @@
+<script>
+    import { base } from '$app/paths';
+</script>
+
+# Gräberfeld
+
+>  Löschten zuerst den glimmenden Schutt mit rötlichem Weine … Maßen den Kreis des Males … und häuften geschüttete Erde zum Hügel.
+*(Homer, Ilias, 23. Gesang)*
+
+## 1 Gräber der Eisenzeit und des Frühmittelalters
+
+Die Geländestufe oberhalb der Ortschaft Grabelsdorf wurde bereits vor 2800 Jahren als Bestattungsplatz genutzt. Am Beginn der Eisenzeit, in der sogenannten **Hallstattkultur** (9. - 4. Jh. v. Chr.) legten die Bewohner der Siedlung auf der Gracarca hier ein Gräberfeld an. Ab dem 4. Jh. v. Chr. wurde es nahtlos von der nun keltisierten  Bevölkerung bis zum Beginn der Römerzeit (15. v. Chr.) weiter genutzt. Funde von frühmittelalterlichen Skeletten (7. - 8. Jh. n. Chr.) zeigen, dass der Friedhof auch nach der Unterbrechung in römischer Zeit noch als solcher wahrgenommen wurde.
+
+![]({base}/img/02/urnengrab-hügel.jpg) In der Eisenzeit wurden die Verstorbenen am Scheiterhaufen verbrannt und die verbleibenden Knochenreste in Urnen bestattet. Manche der Gräber waren monumental angelegt und als Grabhügel in der Landschaft sichtbar. 
+
+![]({base}/img/02/urnengrab-flach.jpg) Andere enthielten kleine Kammern, die als Steinkisten konstruiert waren oder wurden als einfache Gruben in die Erde oder den Felsen eingetieft und mit einer Steinplatte abgedeckt. Jahrhundertelange landwirtschaftliche Nutzung führte dazu, dass heute an der Oberfläche nichts von den Gräbern erkennbar ist.
+
+![]({base}/img/02/grab.jpg) 
+
+Archäologische Untersuchungen seit den 1960er Jahren konnten etwa 80 Gräber bergen. Ursprünglich könnten hier in der Eisenzeit aber mehrere hundert Grabstätten angelegt worden sein.
+
+## 3 Klapperbleche & Schwerter
+
+![]({base}/img/02/beigaben.jpg) 
+
+Trachtbestandteile und Beigaben geben uns Einblicke in das Leben und die Glaubensvorstellungen der damaligen Bevölkerung. Neben Urnen aus gebranntem Ton enthielten die Gräber Keramikgefäße mit Speisen für den Übergang ins Jenseits. Grabausstattungen bieten Hinweise zum sozialen Status der verstorbenen Menschen. Ein Urnengrab mit Steinabdeckung enthielt einen Halsreif, große Fibeln aus Draht und zahlreiche Klapperbleche 
+
+![]({base}/img/02/spinnerin.jpg) 
+*Zeitgenössische Darstellung einer spinnenden Frauen in Tracht der Eisenzeit, Situla Montebelluna (Norditalien, erste Hälfte 1. Jt. v. Chr.)* 
+
+Es stellt die typische Tracht einer angesehenen Frau der frühen Hallstattkultur im 9./8. Jh. v. Chr. dar. Ein Spinnwirtel, die tönerne Schwungmasse einer Spindel, zeigt die Bedeutung der Spinnerei. Die Frau lebte und starb am Beginn der Eisenzeit in unserem Raum. Während die Fibeln und Bleche aus Bronze sind, ist ihr Halsreif aus dem neuen, wertvollen Eisen gefertigt. 
+
+![]({base}/img/02/reko.png) 
+
+## 3 Klapperbleche & Schwerter
+
+![]({base}/img/02/gefaltenes_schwert_web.jpg) 
+
+Keltische Jenseitsvorstellungen der Zeit um 300 v. Chr. spiegeln sich in einem Grab mit zeittypischer Kriegerausrüstung wider. Die Bewaffnung aus Eisen besteht aus einem Langschwert in einer Scheide aus verziertem Blech, der Schwertkette, einer Lanzenspitze und einem Schild. Sie wurde im Zuge der Begräbnisriten, als der Leichnam am Scheiterhaufen verbrannt wurde, bewusst durch Verbiegen zerstört. 
+![]({base}/img/02/reko2.jpg)
+
+Die Überreste wurden in einer Keramikurne in einem Grabmal mit Steinpackung für die Reise ins 
