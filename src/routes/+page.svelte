@@ -1,5 +1,4 @@
 <script>
-	import { base } from '$app/paths';
 	import { setContext } from "svelte";
 	import { browser } from "$app/environment";
 	import Meta from "$components/Meta.svelte";
@@ -18,5 +17,5 @@
 	setContext("data", data.data);
 </script>
 
-<Meta {title} {description} {base} {preloadFont} {keywords} />
+<Meta {title} {description} {url} {preloadFont} {keywords} />
 <Index />
