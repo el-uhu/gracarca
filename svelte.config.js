@@ -34,11 +34,6 @@ const config = {
 			precompress: false,
 			strict: true
 		}),
-		csp: {
-			directives: {
-			  'script-src': ['self']
-			}
-		},
 		paths: {
 			base : '/gracarca'
 		}
