@@ -4,6 +4,7 @@
 	export let description = "";
 	export let url = base;
 	export let keywords = "";
+	export let lang = "";
 	export let preloadFont = [];
 </script>
 
@@ -18,7 +19,7 @@
 	<meta property="og:url" content={url} />
 	<meta property="og:description" content={description} />
 	<meta property="og:type" content="article" />
-	<meta property="og:locale" content="de_AT" />
+	<meta property="og:locale" content={lang} />
 
 	<meta name="robots" content="max-image-preview:large" />
 

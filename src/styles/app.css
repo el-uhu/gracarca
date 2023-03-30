@@ -169,14 +169,13 @@ section.content-section > p {
 
 header {
 	background-color: none !important;
+	display: flex;
 }
 
 .header-mark {
 	max-width: 20em;
-	margin: 0 auto;
-	padding: 1em 0;
-	display: flex;
-	justify-content: center;
+	margin: 0em 2em 0em 2em;
+	justify-content: left;
 }
 
 .header-mark > a {

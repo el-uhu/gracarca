@@ -9,5 +9,5 @@
 	const copy = getContext("copy");
 	const data = getContext("data");
 </script>
-<Gracarca Texts = {Texts}/>
+<Gracarca {Texts}/>
 <Footer />
