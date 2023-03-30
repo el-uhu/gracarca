@@ -961,14 +961,13 @@ section.content-section > p {
 
 header {
 	background-color: none !important;
+	display: flex;
 }
 
 .header-mark {
 	max-width: 20em;
-	margin: 0 auto;
-	padding: 1em 0;
-	display: flex;
-	justify-content: center;
+	margin: 0em 2em 0em 2em;
+	justify-content: left;
 }
 
 .header-mark > a {
@@ -994,4 +993,4 @@ header {
 
 footer {
 	background-color: var(--color-gray-300) !important;
-}
+}#lang-selection.svelte-uxxh3f.svelte-uxxh3f{width:230px;padding-top:0.6em;display:-webkit-inline-box;display:inline-flex;-webkit-box-pack:right;justify-content:right;-webkit-box-align:center;align-items:center;margin-left:auto;margin-right:2em}#lang-selection.svelte-uxxh3f a.svelte-uxxh3f{text-decoration:none;border-bottom:none;color:var(--color-t-blue)}#lang-selection.svelte-uxxh3f a.active.svelte-uxxh3f{font-weight:900;color:var(--color-h-blue)}#lang-selection.svelte-uxxh3f ul.svelte-uxxh3f{list-style:none}#lang-selection.svelte-uxxh3f ul li.svelte-uxxh3f{display:inline}#hero.svelte-ldq86y{padding:2em;background-color:var(--color-fg)}canvas.svelte-15bl8wt{display:block}.canvascontainer.svelte-xmhlvp{height:500px}#gracarca.svelte-18v9ykg{max-width:40rem;margin:0 auto}#gracarca section{margin:32px auto}#gracarca h2 span{background:var(--color-mark);padding:0 8px}footer.svelte-16kinrb.svelte-16kinrb{background-color:var(--color-fg);color:var(--color-bg);font-family:var(--sans);padding:3em 1em;margin-top:3em}a.svelte-16kinrb.svelte-16kinrb,a.svelte-16kinrb.svelte-16kinrb:visited,a.svelte-16kinrb.svelte-16kinrb:hover{color:var(--color-bg)}.about.svelte-16kinrb.svelte-16kinrb{margin:3rem auto;margin-top:0;text-align:center}.links.svelte-16kinrb ul.svelte-16kinrb{display:-webkit-box;display:flex;flex-wrap:wrap;-webkit-box-pack:center;justify-content:center}.links.svelte-16kinrb li.svelte-16kinrb{display:-webkit-box;display:flex;padding:0.5em 1em}.links.svelte-16kinrb a.svelte-16kinrb{display:-webkit-box;display:flex;border:none;-webkit-box-align:center;align-items:center;text-decoration:none}.links.svelte-16kinrb span.svelte-16kinrb{margin-left:0.5em}
