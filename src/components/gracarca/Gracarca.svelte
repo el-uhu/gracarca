@@ -1,6 +1,6 @@
 <script>
 	import { base } from '$app/paths';
-	import TextsGerman from "$data/texts.svx";
+	export let Texts;
 
     import GracarcaHero from "$components/gracarca/Gracarca.Hero.svelte";
 	import GracarcaMapModel from "$components/gracarca/Gracarca.MapModel.svelte"
@@ -30,7 +30,7 @@
 
 <div id="gracarca">
 	<section class="content-section">
-		<TextsGerman />
+		<Texts />
 	</section>
 </div>
 

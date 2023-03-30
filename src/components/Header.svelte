@@ -13,4 +13,11 @@
 			</p>	
 		</a>
 	</div>
+	<div>
+		<ul>
+			<li><a target="_self" href="{base}/en">en</a></li>
+			<li><a target="_self" href="{base}/si">si</a></li>
+			<li><a target="_self" href="{base}/de">de</a></li>
+		</ul>
+	</div>
 </header>

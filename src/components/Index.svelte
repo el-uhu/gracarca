@@ -5,8 +5,9 @@
 	import Gracarca from "$components/gracarca/Gracarca.svelte";
 	import Footer from "$components/Footer.svelte";
 
+	export let Texts
 	const copy = getContext("copy");
 	const data = getContext("data");
 </script>
-<Gracarca />
+<Gracarca Texts = {Texts}/>
 <Footer />

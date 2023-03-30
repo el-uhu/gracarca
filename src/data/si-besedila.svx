@@ -1,0 +1,61 @@
+
+<script>
+import { base } from "$app/paths";
+</script>
+
+# Grobišče
+> Tlečo so grudo spočetka pogasili z rdečkastim vinom ... zmerili krog so pomnika ... skopičili prst so nasuto v gomilo.”
+*(Homer, Ilias, 23. Gesang)*
+
+
+## Grobovi iz železne dobe in zgodnjega srednjega veka
+Vzpetino nad Grabaljo vasjo so uporabljali za pokopavanje že pred 2800 leti. Na začetku železne dobe, v tako imenovani **halštatski kulturi** (9. do 4. stoletje pred Kristusom), so prebivalci naselbine na Gracarci tu uredili grobišče. V 4. stoletju pred Kristusom je grobišče prevzelo keltizirano prebivalstvo in ga uporabljalo vse do začetka rimskega obdobja (15. stoletje pred Kristusom). V rimski dobi tukaj niso pokopavali, najdena okostja iz zgodnjega srednjega veka (7. in 8. stoletje po Kristusu) pa pričajo o tem, da so prostoru pozneje vrnili prejšnji namen in ga spet uporabljali kot pokopališče.
+
+
+## Grobne gomile, kamnite grobnice in žare
+![]({base}/img/02/urnengrab-hügel.jpg)V železni dobi so pokojnike sežigali na grmadah, žganino pa shranili in pokopali v žarah. Nekatere grobove so oblikovali monumentalno in mogočne grobne gomile so bile vidne v pokrajini. 
+
+
+![]({base}/img/02/urnengrab-flach.jpg)Drugi so bili zgrajeni kot manjše kamnite grobnice ali preproste jame, ki so jih pokrili s kamnitimi ploščami. Po stoletjih kmetijske rabe danes na površju ni mogoče več prepoznati ničesar od grobov. 
+
+
+![]({base}/img/02/grab.jpg) 
+
+
+Pri arheoloških raziskavah v 1960-ih letih in pozneje so odkrili približno 80 grobov. Mogoče je, da je bilo prvotno v železni dobi na tem mestu več sto grobišč.
+
+
+
+
+## Kovinski obeski…
+
+
+![]({base}/img/02/beigaben.jpg) 
+
+
+Deli takratnih noš in grobnih pridatkov nam dajejo vpogled v življenje in verovanja ljudi tistega časa. Poleg žar iz žgane gline so v lončenih posodah hranili hrano za prehod v posmrtno življenje.
+
+
+Iz grobnih pridatkov lahko sklepamo na družbeni položaj pokojnika. Ta žarni grob s kamnitim pokrovom je vseboval ovratni obroč, velike fibule in številne kovinske obeske (tintinabulum, lat. zvonček, kraguljček). 
+
+
+![]({base}/img/02/spinnerin.jpg) 
+*Sodobna upodobitev predilke v obleki iz železne dobe, Situla Montebelluna (prva polovica 1. tisočletja pr. n. št.).*
+
+
+To je bila tipična noša ugledne ženske iz obdobja zgodnje halštatske kulture, torej iz 9./8. stoletja pred Kristusom. Priloženo vretence ali vijček, glinena utež ročnega vretena, kaže na pomen predenja (Slika 2). Ženska je živela in umrla na začetku železne dobe v naših krajih. Fibule in obeski so izdelani iz brona, ovratni obroč pa iz novega, dragocenega železa.
+
+
+![]({base}/img/02/reko.png) 
+*Rekonstruirana podoba ženske halštatske kulture na podlagi grobnih najdb iz Grabalje vasi (9./8. stoletje pred našim štetjem).*
+
+
+## … in meči
+![]({base}/img/02/gefaltenes_schwert_web.jpg) 
+
+
+Keltske predstave o posmrtnem življenju v času okoli leta 300 pred Kristusom se odražajo v grobu s tipično bojevniško opremo. Bojevniku je bilo v grob pridano železno orožje: dolg meč v okrašeni železni nožnici, sulična ost in okovje ščita. Orožje so pri pogrebnim obredu zvili, da ni bilo več uporabno, in ga skupaj s truplom sežgali na grmadi. Ostanke so dali v lončeno žaro in jih pokopali v grobno jamo, ki so jo obložili s kamenjem, ter tako pokojniku utrli pot v onostranstvo.
+
+
+![]({base}/img/02/reko2.jpg)
+*Scenski prikaz obrednega uničenja orožja keltskega bojevnika med pokopom, ki temelji na grobnih najdbah iz Grabalje vasi (ok. 300 pr. n. št.).*

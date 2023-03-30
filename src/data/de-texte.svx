@@ -14,6 +14,9 @@ import { base } from "$app/paths";
 Die Geländestufe oberhalb der Ortschaft Grabelsdorf wurde bereits vor 2800 Jahren als Bestattungsplatz genutzt. Am Beginn der Eisenzeit, in der sogenannten **Hallstattkultur** (9. - 4. Jh. v. Chr.) legten die Bewohner der Siedlung auf der Gracarca hier ein Gräberfeld an. Ab dem 4. Jh. v. Chr. wurde es nahtlos von der nun keltisierten  Bevölkerung bis zum Beginn der Römerzeit (15. v. Chr.) weiter genutzt. Funde von frühmittelalterlichen Skeletten (7. - 8. Jh. n. Chr.) zeigen, dass der Friedhof auch nach der Unterbrechung in römischer Zeit noch als solcher wahrgenommen wurde.
 
 
+## Grabhügel, Steinkisten und Urnen
+
+
 ![]({base}/img/02/urnengrab-hügel.jpg) In der Eisenzeit wurden die Verstorbenen am Scheiterhaufen verbrannt und die verbleibenden Knochenreste in Urnen bestattet. Manche der Gräber waren monumental angelegt und als Grabhügel in der Landschaft sichtbar. 
 
 
@@ -24,6 +27,8 @@ Die Geländestufe oberhalb der Ortschaft Grabelsdorf wurde bereits vor 2800 Jahr
 
 
 Archäologische Untersuchungen seit den 1960er Jahren konnten etwa 80 Gräber bergen. Ursprünglich könnten hier in der Eisenzeit aber mehrere hundert Grabstätten angelegt worden sein.
+
+
 
 
 ## Klapperbleche …
