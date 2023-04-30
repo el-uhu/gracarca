@@ -1,6 +1,9 @@
 <script>
 	import { base } from '$app/paths'
-	export let lang;
+	import { page } from '$app/stores'
+
+	export let lang
+
 </script>
 
 <header>
@@ -14,11 +17,11 @@
 	</div>
 	<div id="lang-selection">
 		<ul>
-			<li><a target="_self" href="{base}/en" class:active="{lang === 'en'}">en</a></li>
+			<li><a target="_self" href="{$page.url.pathname.replace("/"+lang+"/", '/en/')}" class:active="{lang === "en"}">en</a></li>
 			<li>|</li>
-			<li><a target="_self" href="{base}/si" class:active="{lang === 'si'}">si</a></li>
+			<li><a target="_self" href="{$page.url.pathname.replace("/"+lang+"/", '/si/')}" class:active="{lang === "si"}">si</a></li>
 			<li>|</li>
-			<li><a target="_self" href="{base}/de" class:active="{lang === 'de'}">de</a></li>
+			<li><a target="_self" href="{$page.url.pathname.replace("/"+lang+"/", '/de/')}/de" class:active="{lang === "de"}">de</a></li>
 		</ul>
 	</div>
 </header>

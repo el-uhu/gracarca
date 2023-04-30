@@ -1,0 +1,75 @@
+---
+title: Burial ground
+description: 
+date: '2023-4-14'
+categories:
+lang: en
+published: true
+---
+
+<script>
+import { base } from "$app/paths";
+</script>
+
+# Burial ground
+> first quenching the fire with wine to its edge ... they traced the circuit of his mound, setting a ring of stones around the pyre then piling earth inside.
+*(Homer, Iliad, BK XXIII)*
+
+
+## Graves of the Iron Age and the Early Middle Ages
+
+
+The terrain above the village of Grabelsdorf was already used as a burial ground 2800 years ago. At the beginning of the Iron Age, in the so-called **Hallstatt Culture** (9th - 4th century BC), the inhabitants of the settlement on the Gracarca laid out a burial ground here. From the 4th century BC it continued to be used seamlessly by the now Celticised population until the beginning of the Roman period (15th BC). Finds of early medieval skeletons (7th - 8th c. AD) show that the cemetery was still perceived as such after the interruption in Roman times.
+
+
+## Burial mounds, stone cists and urns
+
+
+![]({base}/img/02/urnengrab-hügel.jpg) IIn the Iron Age, the deceased were cremated at the funeral pyre and the remaining bone remains were buried in urns. Some of the tombs were monumental in size and visible as burial mounds in the landscape.
+
+
+![]({base}/img/02/urnengrab-flach.jpg) AOthers contained small chambers constructed as stone boxes or were simple pits sunk into the earth or rock and covered with a stone slab. Centuries of agricultural use meant that nothing of the graves is recognisable on the surface today.
+
+
+![]({base}/img/02/grab.jpg) 
+
+
+Archaeological investigations since the 1960s have unearthed about 80 graves. Originally, however, several hundred graves may have been laid out here in the Iron Age.
+
+
+
+
+## Rattling plates …
+
+
+![]({base}/img/02/beigaben.jpg) 
+
+
+Costume components and grave goods giv us an insight into the life and beliefs of the people of the time. In addition to urns made of fired clay, the graves contained ceramic vessels with food for the transition to the afterlife. Grave furnishings offer clues to the social status of the deceased. One urn grave with a stone cover contained a neck ring, large brooches made of wire and numerous rattling plates.
+
+
+
+
+
+
+![]({base}/img/02/spinnerin.jpg) 
+*contemporary depiction of a spinning woman in Iron Age costume, Situla Montebelluna (northern Italy, first half of the 1st millennium BC)* 
+
+
+It represents the typical costume of a respected woman of the early Hallstatt culture in the 9th/8th century BC. A spindle whorl, the clay flywheel of a spindle, shows the importance of spinning (picture 2). The woman lived and died in our area at the beginning of the Iron Age. While the brooches and plates are made of bronze, her neck ring is made of the new, valuable iron.
+
+
+![]({base}/img/02/reko.png) 
+
+
+## … and swords
+
+
+![]({base}/img/02/gefaltenes_schwert_web.jpg) 
+
+
+Celtic ideas of the afterlife of the time around 300 BC are reflected in a grave with warrior equipment typical of the period. The iron armament consists of a long sword in a scabbard of decorated sheet metal, the sword chain, a lance tip and a shield. It was deliberately destroyed by bending in the course of the funeral rites when the body was burnt at the stake.
+![]({base}/img/02/reko2.jpg)
+
+
+The remains were laid in a ceramic urn in a stone-packed tomb for the journey to the afterlife.

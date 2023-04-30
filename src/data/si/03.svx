@@ -1,0 +1,23 @@
+---
+title: Grobne gomile in  Karantanci
+description: 
+date: '2023-4-14'
+categories:
+lang: si
+published: true
+---
+
+<script>
+import { base } from "$app/paths";
+</script>
+
+# Grobne gomile in  Karantanci
+> Quote
+
+
+## Subtitle
+Plain text
+
+
+## Subtitle
+Plain text

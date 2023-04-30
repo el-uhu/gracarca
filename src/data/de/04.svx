@@ -1,0 +1,41 @@
+---
+title: St. Daniel
+description: 
+date: '2023-4-14'
+categories:
+lang: de
+published: true
+---
+
+<script>
+import { base } from "$app/paths";
+</script>
+
+# St. Daniel
+> “Conversio … Carantanorum”
+
+
+## Christlicher Friedhof
+
+
+Im 8. und 9. Jahrhundert wurden Salzburger Missionare in die östlichen Länder geschickt, auch mit dem Ziel, die Bevölkerung des slawischen Fürstentums Karantanien zu taufen. In Büchern aus dem 9. Jahrhundert werden die Bemühungen der Vermittlung des christlichen Glaubens an die heidnischen Slawen im heutigen Kärnten geschildert.  
+Sehr wahrscheinlich wurde die Kirche St. Daniel bald nach dem Erfolg der Mission errichtet. Der alte Friedhof oberhalb von Grabelsdorf wurde aufgegeben und um die Kirche ein neuer angelegt.  
+Grabungen im Jahr 2019 zeigten, dass sich der ursprüngliche Friedhof auch außerhalb der heutigen Friedhofsmauern befand.   
+Der Friedhof wird von den Bewohnern der umliegenden Dörfer immer noch benutzt.
+
+
+
+
+## Frühmittelaterliche Eigenkirche
+
+
+Als Stifter der Kirche kommt der für die Ortschaft Grabelsdorf namensgebende Gabriel in Betracht. 1050 gehörte die Kirche St. Daniel als Eigenkirche mehreren Personen. Das gilt als Beleg dafür, dass das Gotteshaus spätestens im 10. Jahrhundert schon bestanden hat. 1060 befand sich die Kirche St. Daniel im Eigentum des Bischofs von Brixen in Südtirol. Im 12. Jahrhundert gelangte St. Daniel an das Kloster Eberndorf, wurde um 1238 von Graf Albert III. von Tirol losgekauft und war nunmehr eine Filialkirche der Pfarre Stein im Jauntal.   
+Als einziger Überrest der romanischen Kirchenausstattung ist ein Weihrauchfass aus dem 12. Jahrhundert erhalten, das sich heute im Diözesanmuseum in Gurk befindet.
+
+
+## Spätgotischer Bau
+
+
+Das bestehende spätgotische Kirchengebäude wurde um 1500 auf den Resten der romanischen Kirche aufgebaut. Das Langhaus mit eingezogenem Chor weist einen 5/8-Schluss auf. An der Außenseite des Chores sind dekorative Strebepfeiler. Der Altarraum zeigt ein Netzrippengewölbe, das Langhaus dagegen ein Sternrippengewölbe auf Konsolen. An den figürlich verzierten Schlusssteinen befinden sich die Abbildungen
+Maria mit Kind, Daniel mit dem Löwen, ein Bischof mit Bischofsmütze und Buch (hl. Augustinus) sowie ein Mann mit Muschel, einem Wanderstab und einen Wanderhut (hl. Jakob).
+Im Zuge der Außenrenovierung der Kirche im Jahr 2018 wurde an der Südwand eine Christophorus-Darstellung freigelegt. Sie stammt aus der Übergangszeit von der Spätrenaissance zum Frühbarock (etwa dem ersten Viertel des 17. Jahrhunderts) und wurde 2019 fachgerecht restauriert.

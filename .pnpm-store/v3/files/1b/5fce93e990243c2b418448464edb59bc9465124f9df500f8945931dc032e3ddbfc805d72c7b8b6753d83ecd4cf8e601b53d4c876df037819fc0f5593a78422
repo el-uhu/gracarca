@@ -1,0 +1,7 @@
+<script>import Icon from '../Icon.svelte';
+const iconNode = [["path", { "d": "M 5,8 V 5 C 5,4 6,3 7,3 h 10 c 1,0 2,1 2,2 v 3" }], ["path", { "d": "m 19,16 v 3 c 0,1 -1,2 -2,2 H 7 C 6,21 5,20 5,19 v -3" }], ["line", { "x1": "4", "y1": "12", "x2": "20", "y2": "12" }]];
+</script>
+
+<Icon name="split-square-vertical" {...$$props} iconNode={iconNode}>
+  <slot/>
+</Icon>

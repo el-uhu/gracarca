@@ -37,7 +37,7 @@
 	"include": [
 		"src/**/*.js",
 		"src/**/*.svelte"
-	],
+, "src/routes/api/posts/+server.ts"	],
 	"exclude": [
 		"tasks/*.js"
 	],
