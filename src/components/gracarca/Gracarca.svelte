@@ -1,9 +1,9 @@
 <script>
 	import { base } from '$app/paths';
 	export let Texts;
-
     import GracarcaHero from "$components/gracarca/Gracarca.Hero.svelte";
 	import GracarcaMapModel from "$components/gracarca/Gracarca.MapModel.svelte"
+	import Carousel from "$components/gracarca/Carousel.svelte";
 	import { degToRad } from 'three/src/math/MathUtils'
 
 	let cameraSettings = {
@@ -34,6 +34,8 @@
 	</section>
 </div>
 
+<Carousel />
+
 <style>
 	#gracarca {
 		max-width: 40rem;
@@ -49,5 +51,18 @@
 	:global(#gracarca h2 span) {
 		background: var(--color-mark);
 		padding: 0 8px;
+	}
+
+	.embla {    
+		overflow: hidden;  
+	}
+
+	.embla__container {    
+		display: flex;  
+	}  
+	
+	.embla__slide {    
+		flex: 0 0 100%;
+		min-width: 0;  
 	}
 </style>

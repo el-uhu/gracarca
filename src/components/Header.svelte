@@ -21,7 +21,7 @@
 			<li>|</li>
 			<li><a target="_self" href="{$page.url.pathname.replace("/"+lang+"/", '/si/')}" class:active="{lang === "si"}">si</a></li>
 			<li>|</li>
-			<li><a target="_self" href="{$page.url.pathname.replace("/"+lang+"/", '/de/')}/de" class:active="{lang === "de"}">de</a></li>
+			<li><a target="_self" href="{$page.url.pathname.replace("/"+lang+"/", '/de/')}" class:active="{lang === "de"}">de</a></li>
 		</ul>
 	</div>
 </header>

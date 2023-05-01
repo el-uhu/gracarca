@@ -16,6 +16,7 @@ specifiers:
   archieml: ^0.5.0
   autoprefixer: ^10.4.13
   d3: ^7.8.2
+  embla-carousel-svelte: 8.0.0-rc02
   layercake: ^7.2.2
   lodash.debounce: ^4.0.8
   lucide-svelte: ^0.118.0
@@ -35,6 +36,7 @@ specifiers:
   vite-plugin-svgstring: ^1.0.0
 
 dependencies:
+  embla-carousel-svelte: 8.0.0-rc02_svelte@3.55.1
   mdsvex: 0.10.6_svelte@3.55.1
 
 devDependencies:
@@ -903,6 +905,28 @@ packages:
   /electron-to-chromium/1.4.314:
     resolution: {integrity: sha512-+3RmNVx9hZLlc0gW//4yep0K5SYKmIvB5DXg1Yg6varsuAHlHwTeqeygfS8DWwLCsNOWrgj+p9qgM5WYjw1lXQ==}
     dev: true
+
+  /embla-carousel-reactive-utils/8.0.0-rc02_embla-carousel@8.0.0-rc02:
+    resolution: {integrity: sha512-26ZXUnSiD6eN7rwylPnDYeIM3xNlPd92Wr9PMFou9qlIJSydEA4o3IqScXdiS+3slnlo/hiR81VrmTNjgeGv+Q==}
+    peerDependencies:
+      embla-carousel: 8.0.0-rc02
+    dependencies:
+      embla-carousel: 8.0.0-rc02
+    dev: false
+
+  /embla-carousel-svelte/8.0.0-rc02_svelte@3.55.1:
+    resolution: {integrity: sha512-RiEAtJ4Nsn7JbkCkv1pZWqwj01ZW5VO5UpzM5i3egnOHg+O/UOQzDpmh6Mgmt2SEvDjio7twsKvUVDWQxqA0BQ==}
+    peerDependencies:
+      svelte: ^3.49.0
+    dependencies:
+      embla-carousel: 8.0.0-rc02
+      embla-carousel-reactive-utils: 8.0.0-rc02_embla-carousel@8.0.0-rc02
+      svelte: 3.55.1
+    dev: false
+
+  /embla-carousel/8.0.0-rc02:
+    resolution: {integrity: sha512-ZD8zkPQqp56qOhNjdT2MmzeJmPMaCwOQW0oH/8dXWy7krIzJkCkaUMDYuD3VXAHs5729WeH4d0znLu6x9RadNg==}
+    dev: false
 
   /es6-promise/3.3.1:
     resolution: {integrity: sha512-SOp9Phqvqn7jtEUxPWdWfWoLmyt2VaJ6MpvP9Comy1MceMXqE6bxvaTu4iaxpYYPzhny28Lc+M87/c2cPK6lDg==}
