@@ -34,7 +34,7 @@
 	</section>
 </div>
 
-<Carousel />
+<!-- <Carousel /> -->
 
 <style>
 	#gracarca {
