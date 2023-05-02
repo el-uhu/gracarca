@@ -1,7 +1,0 @@
-<script>import Icon from '../Icon.svelte';
-const iconNode = [["line", { "x1": "7", "y1": "7", "x2": "17", "y2": "17" }], ["polyline", { "points": "17 7 17 17 7 17" }]];
-</script>
-
-<Icon name="arrow-down-right" {...$$props} iconNode={iconNode}>
-  <slot/>
-</Icon>

@@ -6,6 +6,7 @@ const CWD = process.cwd();
 const hdr = '\n' +
 '<script>\n' +
 'import { base } from "$app/paths";\n' +
+'import { Carousel } from "$components/gracarca/Carousel.svelte";\n' +
 '</script>\n\n'
 
 const fetchGoogle = async ({ id, gid }) => {
@@ -35,7 +36,7 @@ const fetchGoogle = async ({ id, gid }) => {
 		try {
 			const str = await fetchGoogle(d);
 			const file = `${CWD}/${d.filepath}`;
-			fs.writeFileSync(file, hdr + str);
+			fs.writeFileSync(file, str + hdr);
 		} catch (err) {
 			console.log(err);
 		}

@@ -3,7 +3,6 @@
 	export let Texts;
     import GracarcaHero from "$components/gracarca/Gracarca.Hero.svelte";
 	import GracarcaMapModel from "$components/gracarca/Gracarca.MapModel.svelte"
-	import Carousel from "$components/gracarca/Carousel.svelte";
 	import { degToRad } from 'three/src/math/MathUtils'
 
 	let cameraSettings = {

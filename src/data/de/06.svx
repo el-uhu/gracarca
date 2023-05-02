@@ -1,18 +1,15 @@
 ---
 title: Georgiberg
-description: 
+description:
 date: '2023-4-14'
 categories:
 lang: de
 published: true
 ---
 
-<script>
-import { base } from "$app/paths";
-</script>
 
 # Georgiberg
-> Quote
+> “Castrum Sancti Georgii in Iountal”
 
 
 ## Verschwundene Burg
@@ -46,3 +43,8 @@ stammen auch Wandmalereien an den Chorwänden mit Darstellungen von Aposteln. S�
 
 
 Mit der Glocke im Glockenturm sind zahlreiche Legenden verbunden. So sollen sich nach deren Läuten Wünsche erfüllen.
+<script>
+import { base } from "$app/paths";
+import { Carousel } from "$components/gracarca/Carousel.svelte";
+</script>
+

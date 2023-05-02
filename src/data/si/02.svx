@@ -1,15 +1,12 @@
 ---
 title: Grobišče
-description: 
+description:
 date: '2023-4-14'
 categories:
 lang: si
 published: true
 ---
 
-<script>
-import { base } from "$app/paths";
-</script>
 
 # Grobišče
 > Tlečo so grudo spočetka pogasili z rdečkastim vinom ... zmerili krog so pomnika ... skopičili prst so nasuto v gomilo.”
@@ -67,3 +64,8 @@ Keltske predstave o posmrtnem življenju v času okoli leta 300 pred Kristusom s
 
 ![]({base}/img/02/reko2.jpg)
 *Scenski prikaz obrednega uničenja orožja keltskega bojevnika med pokopom, ki temelji na grobnih najdbah iz Grabalje vasi (ok. 300 pr. n. št.).*
+<script>
+import { base } from "$app/paths";
+import { Carousel } from "$components/gracarca/Carousel.svelte";
+</script>
+

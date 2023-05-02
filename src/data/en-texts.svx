@@ -1,8 +1,3 @@
-
-<script>
-import { base } from "$app/paths";
-</script>
-
 # Burial ground
 > first quenching the fire with wine to its edge ... they traced the circuit of his mound, setting a ring of stones around the pyre then piling earth inside.
 *(Homer, Iliad, BK XXIII)*
@@ -65,3 +60,8 @@ Celtic ideas of the afterlife of the time around 300 BC are reflected in a grave
 
 
 The remains were laid in a ceramic urn in a stone-packed tomb for the journey to the afterlife.
+<script>
+import { base } from "$app/paths";
+import { Carousel } from "$components/gracarca/Carousel.svelte";
+</script>
+

@@ -13,8 +13,6 @@
 		en: "en_GB"
 	};
 
-	import Texts from "$data/en-texts.svx";
-
 	export let data;
 	let lang = data.meta.lang;
 	console.log(lang);

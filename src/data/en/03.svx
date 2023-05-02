@@ -1,15 +1,12 @@
 ---
-title: Burial mounds & Carantanian
-description: 
+title: Burial mounds & Carantanians
+description:
 date: '2023-4-14'
 categories:
 lang: en
 published: true
 ---
 
-<script>
-import { base } from "$app/paths";
-</script>
 
 # Burial mounds & Carantanians
 > Quote
@@ -21,3 +18,8 @@ Plain text
 
 ## Subtitle
 Plain text
+<script>
+import { base } from "$app/paths";
+import { Carousel } from "$components/gracarca/Carousel.svelte";
+</script>
+

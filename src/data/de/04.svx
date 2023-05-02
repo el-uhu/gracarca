@@ -1,15 +1,14 @@
 ---
 title: St. Daniel
-description: 
+description:
 date: '2023-4-14'
 categories:
 lang: de
 published: true
 ---
 
-<script>
-import { base } from "$app/paths";
-</script>
+
+
 
 # St. Daniel
 > “Conversio … Carantanorum”
@@ -39,3 +38,8 @@ Als einziger Überrest der romanischen Kirchenausstattung ist ein Weihrauchfass 
 Das bestehende spätgotische Kirchengebäude wurde um 1500 auf den Resten der romanischen Kirche aufgebaut. Das Langhaus mit eingezogenem Chor weist einen 5/8-Schluss auf. An der Außenseite des Chores sind dekorative Strebepfeiler. Der Altarraum zeigt ein Netzrippengewölbe, das Langhaus dagegen ein Sternrippengewölbe auf Konsolen. An den figürlich verzierten Schlusssteinen befinden sich die Abbildungen
 Maria mit Kind, Daniel mit dem Löwen, ein Bischof mit Bischofsmütze und Buch (hl. Augustinus) sowie ein Mann mit Muschel, einem Wanderstab und einen Wanderhut (hl. Jakob).
 Im Zuge der Außenrenovierung der Kirche im Jahr 2018 wurde an der Südwand eine Christophorus-Darstellung freigelegt. Sie stammt aus der Übergangszeit von der Spätrenaissance zum Frühbarock (etwa dem ersten Viertel des 17. Jahrhunderts) und wurde 2019 fachgerecht restauriert.
+<script>
+import { base } from "$app/paths";
+import { Carousel } from "$components/gracarca/Carousel.svelte";
+</script>
+

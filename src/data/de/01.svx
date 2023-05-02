@@ -1,6 +1,6 @@
 ---
 title: Grabelsdorf/Grabalja vas
-description: 
+description:
 date: '2023-4-14'
 categories:
 lang: de
@@ -8,9 +8,7 @@ published: true
 ---
 
 
-<script>
-import { base } from "$app/paths";
-</script>
+
 
 # Grabelsdorf/Grabalja vas
 
@@ -25,13 +23,20 @@ import { base } from "$app/paths";
 
 Grabelsdorf liegt in einer seit Jahrtausenden von Menschen genutzten und geformten Kulturlandschaft. Im Hügelland zwischen Klopeiner See und Turnersee (Sablatnigsee) wurden Dörfer, Höfe, Burgen und
 Kirchen errichtet, Verstorbene unter Grabhügeln und
-auf Friedhöfen bestattet. Die 1000 Jahre alten Kirchen St. Daniel und St. Georg sind auf den Hügeln um Grabelsdorf bis heute erhalten. Viel schwerer erkennt man die Spuren der vor 3000 Jahren gegründeten eisenzeitlichen Siedlung auf der Gracarca, dem Höhenrücken zwischen Grabelsdorf und Klopeiner See, und des dazugehörigen Friedhofs oberhalb von Grabelsdorf.
+auf Friedhöfen bestattet. 
 
 
+![]({base}/img/01/Jauntal_pano.jpg)
+
+
+Die 1000 Jahre alten Kirchen St. Daniel und St. Georg sind auf den Hügeln um Grabelsdorf bis heute erhalten. Viel schwerer erkennt man die Spuren der vor 3000 Jahren gegründeten eisenzeitlichen Siedlung auf der Gracarca, dem Höhenrücken zwischen Grabelsdorf und Klopeiner See, und des dazugehörigen Friedhofs oberhalb von Grabelsdorf.
+
+
+![]({base}/img/01/Kirche_LB1.jpg)
 
 
 Um diese historischen Spuren lesen zu können, wurden an wichtigen Plätzen in der Landschaft Informationstafeln aufgestellt. Sie sind Lesezeichen für weiterführende Informationen über die Geschichte des Ortes, an dem Sie sich befinden. Kurze Texte und forschungsbasierte Illustrationen helfen, ein Bild der Vergangenheit des jeweiligen Standpunktes und der damit verknüpften Geschichte zu zeichnen.
-Auf der Website, die Sie über den QR-Code erreichen, können Sie auch vor Ort zusätzliche Inhalte betrachten.
+Auf der Website, die Sie über den QR-Code erreichen, können Sie zusätzliche Inhalte betrachten.
 
 
 
@@ -39,8 +44,12 @@ Auf der Website, die Sie über den QR-Code erreichen, können Sie auch vor Ort z
 ## Das Dorf des Gabriel
 
 
-Die Wurzeln Grabelsdorfs reichen in das 7. Jahrhundert n. Chr. zurück. Zur Zeit des slawischen Fürstentums Karantanien siedelte eine Gemeinschaft am Fuße der Gracarca, die von der Archäologie nur über ihren Friedhof erfasst werden konnte.  
-Der Name Grabelsdorf scheint erstmals in Urkunden aus der Zeit um 1050 als *villa Gabrielis*, Dorf des Gabriel, auf. Es ist anzunehmen, dass der namensgebende Gabriel im 8. oder 9. Jahrhundert gelebt hatte und zur ersten Generation von christianisierten Slawen gehörte. Mit der Taufe nahmen diese sehr häufig biblische bzw. alttestamentliche Namen an. Bis zum Jahr 1090 schenkten Gabriels Nachkommen als Grabelsdorfer
+Die Wurzeln Grabelsdorfs reichen in das 7. Jahrhundert n. Chr. zurück. Zur Zeit des slawischen Fürstentums Karantanien siedelte eine Gemeinschaft am Fuße der Gracarca, die von der Archäologie über ihren Friedhof erfasst werden konnte.  
+Der Name Grabelsdorf scheint erstmals in Urkunden aus der Zeit um 1050 als *villa Gabrielis*, Dorf des Gabriel, auf. Es ist anzunehmen, dass der namensgebende Gabriel im 8. oder 9. Jahrhundert gelebt hatte und zur ersten Generation von christianisierten Slawen gehörte. Mit der Taufe nahmen diese sehr häufig biblische bzw. alttestamentliche Namen an. 
+
+
+![]({base}/img/01/Schenkungen.png) 
+Bis zum Jahr 1090 schenkten Gabriels Nachkommen als Grabelsdorfer
 Herrscher dem Hochstift Brixen die meisten ihrer Güter:  
 der Edle Liuto, sein Bruder Reginprecht und die Edle Gotta übergaben ein Dutzend Huben, Gärten und Weinberge.
 
@@ -50,4 +59,19 @@ der Edle Liuto, sein Bruder Reginprecht und die Edle Gotta übergaben ein Dutzen
 ## Freie Bauern und Sommerfrische
 
 
-Bis zur Revolution 1848 waren die durchwegs slowenischen Bauern in Grabelsdorf als Untertanen der verschiedenen adeligen Besitzer auf ihren Höfen tätig. Erst ab Mitte des 19. Jahrhunderts konnten sie die Höfe erwerben und die Entwicklung zur heutigen Dorfstruktur nahm ihren Anfang. Der in den Jahren nach dem 2. Weltkrieg zunehmende Tourismus um die Seen führte auch in Grabelsdorf zu einer Belebung. Um die ursprünglichen Höfe entstand ein Straßendorf, in dem bis heute die für die Region typische Zweisprachigkeit mit der deutschen und slowenischen Sprache auch im Alltag erhalten blieb.
+
+
+![]({base}/img/01/Franz_Kat.jpg)
+Bis zur Revolution 1848 waren die durchwegs slowenischen Bauern in Grabelsdorf als Untertanen der verschiedenen adeligen Besitzer auf ihren Höfen tätig. Erst ab Mitte des 19. Jahrhunderts konnten sie die Höfe erwerben und die Entwicklung zur heutigen Dorfstruktur nahm ihren Anfang. 
+
+
+![]({base}/img/01/posestni_list.jpg)
+Der in den Jahren nach dem 2. Weltkrieg zunehmende Tourismus um die Seen führte auch in Grabelsdorf zu einer Belebung. Um die ursprünglichen Höfe entstand ein Straßendorf, in dem bis heute die für die Region typische Zweisprachigkeit mit der deutschen und slowenischen Sprache auch im Alltag erhalten blieb.
+
+
+![]({base}/img/01/Sommerfrische_AK_1953.jpg)
+<script>
+import { base } from "$app/paths";
+import { Carousel } from "$components/gracarca/Carousel.svelte";
+</script>
+

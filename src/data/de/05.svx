@@ -1,15 +1,12 @@
 ---
 title: Gracarca Siedlung
-description: 
+description:
 date: '2023-4-14'
 categories:
 lang: de
 published: true
 ---
 
-<script>
-import { base } from "$app/paths";
-</script>
 
 # Gracarca Siedlung
 > “Regnum Noricum”
@@ -43,3 +40,8 @@ Zu dieser Zeit dürfte die Gracarca eine der größten keltischen Siedlungen im 
 Archäologische Untersuchungen am Ende des 20. Jahrhunderts konnten neben Spuren von Wohnhäusern und lokaler Textilproduktion auch Überreste von Metallverarbeitung feststellen. In der Zeit des keltischen *Regnum Noricum* standen die Kelten bereits in Kontakt mit den südlichen Nachbarn, den Römern. Vor allem qualitätsvolles Eisen, von den Römern als *Ferrum Noricum* bezeichnet, war sehr begehrt. Die Gracarca könnte eine wichtige Rolle im Handel gespielt haben.
 Das nördlich im Görtschitztal gewonnene Eisen könnte hier weiterverarbeitet und geprüft worden sein.    
 Direkte Kontakte und möglicherweise auch Unterstützung für die lokalen Kelten durch die Römer zeigt ein Wasserauffangbecken aus der Endphase der Siedlung. Es ist in römischer Mauertechnik in den letzten Jahrzehnten des 1. Jahrhunderts v. Chr. errichtet worden.
+<script>
+import { base } from "$app/paths";
+import { Carousel } from "$components/gracarca/Carousel.svelte";
+</script>
+

@@ -1,16 +1,12 @@
 ---
 title: Grabhügel & Karantanen
-description: 
+description:
 date: '2023-4-14'
 categories:
 lang: de
 published: true
 ---
 
-
-<script>
-import { base } from "$app/paths";
-</script>
 
 # Grabhügel & Karantanen
 
@@ -44,3 +40,8 @@ Der hochgewachsene Mann darf als hochrangige Persönlichkeit im selbständigen *
 Riemenzungen des Militärgürtels haben ihre Vorbilder im Osten, im byzantinischen und awarischen Raum. Ein Sporn weist ihn als Reiter aus.   
 Ob er ein Fürst (“Knez”), ein regionaler Amtsträger (“Ban”) oder doch ein lokaler Anführer eines Siedlungsverbandes (“Župan”) war, lässt
 sich nicht mit Sicherheit sagen.
+<script>
+import { base } from "$app/paths";
+import { Carousel } from "$components/gracarca/Carousel.svelte";
+</script>
+
