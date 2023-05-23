@@ -15,7 +15,6 @@
 
 	export let data;
 	let lang = data.meta.lang;
-	console.log(lang);
 
 	version();
 
