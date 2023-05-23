@@ -32,8 +32,31 @@ const config = {
 			assets: 'build',
 			fallback: null,
 			precompress: false,
-			strict: true
+			strict: false
 		}),
+		prerender : {
+			handleHttpError: 'warn',
+			entries: [
+			'/de/01',
+			'/de/02',
+			'/de/03',
+			'/de/04',
+			'/de/05',
+			'/de/06',
+			'/en/01',
+			'/en/02',
+			'/en/03',
+			'/en/04',
+			'/en/05',
+			'/en/06',
+			'/si/01',
+			'/si/02',
+			'/si/03',
+			'/si/04',
+			'/si/05',
+			'/si/06',
+			]
+		},
 		paths: {
 			base : '/gracarca',
 			relative: false
