@@ -12,7 +12,6 @@ published: true
 > Löschten zuerst den glimmenden Schutt mit rötlichem Weine … Maßen den Kreis des Males … und häuften geschüttete Erde zum Hügel.
 *(Homer, Ilias, 23. Gesang)*
 
-<Carousel />
 
 ## Gräber der Eisenzeit und des Frühmittelalters
 
@@ -23,9 +22,6 @@ dem 4. Jahrhundert v. Chr. wurde es nahtlos von der nun **keltisierten Bevölker
 Skeletten (7.–8. Jh. n. Chr.) zeigen, dass der Friedhof auch
 nach der Unterbrechung in römischer Zeit noch als solcher
 wahrgenommen wurde.
-
-
-
 
 ## Grabhügel, Steinkisten und Urnen
 
@@ -89,6 +85,24 @@ Keltische Jenseitsvorstellungen der Zeit um 300 v. Chr. spiegeln sich in einem G
 Die Überreste wurden in einer Keramikurne in einem Grabmal mit Steinpackung für die Reise ins Jenseits gebettet.
 <script>
 import { base } from "$app/paths";
-import Carousel from "$components/gracarca/Carousel.svelte"
+import Carousel from "$components/carousel.svelte";
+let galleryData = [
+    {
+    "path" : "{base}/img/02/urnengrab-hügel.jpg",
+    "description" : "My image description"
+    },
+    {
+    "path" : "{base}/img/02/urnengrab-flach.jpg",
+    "description" : "My image description"
+    },
+    {
+    "path" : "{base}/img/02/grab.jpg",
+    "description" : "My image description"
+    },
+    {
+    "path" : "{base}/img/02/spinnerin.jpg",
+    "description" : "My image description"
+    }
+]
 </script>
 

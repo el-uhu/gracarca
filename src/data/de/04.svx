@@ -40,6 +40,6 @@ Maria mit Kind, Daniel mit dem Löwen, ein Bischof mit Bischofsmütze und Buch (
 Im Zuge der Außenrenovierung der Kirche im Jahr 2018 wurde an der Südwand eine Christophorus-Darstellung freigelegt. Sie stammt aus der Übergangszeit von der Spätrenaissance zum Frühbarock (etwa dem ersten Viertel des 17. Jahrhunderts) und wurde 2019 fachgerecht restauriert.
 <script>
 import { base } from "$app/paths";
-import { Carousel } from "$components/gracarca/Carousel.svelte";
+import Carousel from "$components/carousel.svelte";
 </script>
 

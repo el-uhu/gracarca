@@ -8,19 +8,21 @@
 	import copy from "$data/copy.json";
 	import version from "$utils/version.js";
 	let locales = {
-		si: "sl_SI",
-		de: "de_AT",
-		en: "en_GB"
+		"si": "sl_SI",
+		"de": "de_AT",
+		"en": "en_GB"
 	};
 
 	export let data;
 	let lang = data.meta.lang;
+	console.log(lang)
 
 	version();
 
 	const preloadFont = [];
 
 	const { title, description, url, keywords } = copy;
+	console.log(copy)
 	setContext("copy", copy);
 	setContext("data", data.data);
 </script>

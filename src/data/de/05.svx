@@ -42,6 +42,6 @@ Das nördlich im Görtschitztal gewonnene Eisen könnte hier weiterverarbeitet u
 Direkte Kontakte und möglicherweise auch Unterstützung für die lokalen Kelten durch die Römer zeigt ein Wasserauffangbecken aus der Endphase der Siedlung. Es ist in römischer Mauertechnik in den letzten Jahrzehnten des 1. Jahrhunderts v. Chr. errichtet worden.
 <script>
 import { base } from "$app/paths";
-import { Carousel } from "$components/gracarca/Carousel.svelte";
+import Carousel from "$components/carousel.svelte";
 </script>
 

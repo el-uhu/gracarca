@@ -45,6 +45,6 @@ stammen auch Wandmalereien an den Chorwänden mit Darstellungen von Aposteln. S�
 Mit der Glocke im Glockenturm sind zahlreiche Legenden verbunden. So sollen sich nach deren Läuten Wünsche erfüllen.
 <script>
 import { base } from "$app/paths";
-import { Carousel } from "$components/gracarca/Carousel.svelte";
+import Carousel from "$components/carousel.svelte";
 </script>
 

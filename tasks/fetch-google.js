@@ -6,7 +6,7 @@ const CWD = process.cwd();
 const hdr = '\n' +
 '<script>\n' +
 'import { base } from "$app/paths";\n' +
-'import { Carousel } from "$components/gracarca/Carousel.svelte";\n' +
+'import Carousel from "$components/carousel.svelte";\n' +
 '</script>\n\n'
 
 const fetchGoogle = async ({ id, gid }) => {

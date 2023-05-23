@@ -42,6 +42,6 @@ Ob er ein Fürst (“Knez”), ein regionaler Amtsträger (“Ban”) oder doch 
 sich nicht mit Sicherheit sagen.
 <script>
 import { base } from "$app/paths";
-import { Carousel } from "$components/gracarca/Carousel.svelte";
+import Carousel from "$components/carousel.svelte";
 </script>
 

@@ -72,6 +72,6 @@ Der in den Jahren nach dem 2. Weltkrieg zunehmende Tourismus um die Seen führte
 ![]({base}/img/01/Sommerfrische_AK_1953.jpg)
 <script>
 import { base } from "$app/paths";
-import { Carousel } from "$components/gracarca/Carousel.svelte";
+import Carousel from "$components/carousel.svelte";
 </script>
 

@@ -66,6 +66,6 @@ Keltske predstave o posmrtnem življenju v času okoli leta 300 pred Kristusom s
 *Scenski prikaz obrednega uničenja orožja keltskega bojevnika med pokopom, ki temelji na grobnih najdbah iz Grabalje vasi (ok. 300 pr. n. št.).*
 <script>
 import { base } from "$app/paths";
-import { Carousel } from "$components/gracarca/Carousel.svelte";
+import Carousel from "$components/carousel.svelte";
 </script>
 

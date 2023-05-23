@@ -58,6 +58,6 @@ Keltische Jenseitsvorstellungen der Zeit um 300 v. Chr. spiegeln sich in einem G
 Die Überreste wurden in einer Keramikurne in einem Grabmal mit Steinpackung für die Reise ins Jenseits.
 <script>
 import { base } from "$app/paths";
-import { Carousel } from "$components/gracarca/Carousel.svelte";
+import Carousel from "$components/carousel.svelte";
 </script>
 

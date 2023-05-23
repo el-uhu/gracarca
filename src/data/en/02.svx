@@ -72,6 +72,6 @@ Celtic ideas of the afterlife of the time around 300 BC are reflected in a grave
 The remains were laid in a ceramic urn in a stone-packed tomb for the journey to the afterlife.
 <script>
 import { base } from "$app/paths";
-import { Carousel } from "$components/gracarca/Carousel.svelte";
+import Carousel from "$components/carousel.svelte";
 </script>
 
