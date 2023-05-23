@@ -58,7 +58,7 @@ const config = {
 			]
 		},
 		paths: {
-			base : '/gracarca',
+			base : '',
 			relative: false
 		}
 	},
