@@ -28,7 +28,7 @@
 </script>
 
 <Header {lang} />
-<main id="conent">
+<main id="content">
 	<Meta
 		{title}
 		{description}
