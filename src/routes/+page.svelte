@@ -1,0 +1,82 @@
+<script>
+    import "$styles/app.css";
+	import { setContext } from "svelte";
+	import { browser } from "$app/environment";
+	import Header from "$components/Header.svelte";
+	import Meta from "$components/Meta.svelte";
+	import Index from "$components/Index.svelte";
+    import Footer from "$components/Footer.svelte";
+    import GracarcaHero from "$components/gracarca/Gracarca.Hero.svelte";
+	import GracarcaMapModel from "$components/gracarca/Gracarca.MapModel.svelte"
+	import { degToRad } from 'three/src/math/MathUtils'
+
+	let cameraSettings = {
+		"base" : {
+			"pos" : [-113.6, 1500, -37.7],
+    		"rot" : [degToRad(-90), degToRad(0), degToRad(0)],
+			"orbitcontrols" : true
+		},
+		"Gräberfeld"  : {
+			"pos" : [-238, 755, 694],
+    		"rot" : [degToRad(-51.61), degToRad(0.1), degToRad(0.12)],
+			"orbitcontrols" : false
+		},
+		"Test" : {
+			"pos" : [-288, 879, -493],
+    		"rot" : [degToRad(-155), degToRad(0.3), degToRad(180)],
+			"orbitcontrols" : false
+		},
+	}
+
+</script>
+
+<Header />
+
+<GracarcaMapModel cameraSettings={cameraSettings["base"]}/>
+<main id="content">
+    <div id="gracarca">
+        <section class="content-section">
+            <h6>
+                <a href="/en">View the page in English</a>
+            </h6>
+            <h6>
+                <a href="/si">Oglejte si spletno stran v slovenščini</a>
+            </h6>
+            <h6>
+                <a href="/de">Die Seite auf Deutsch anzeigen</a>
+            </h6>
+        </section>
+    </div>
+</main>
+
+
+<style>
+	#gracarca {
+		max-width: 40rem;
+		/* padding: 16px; */
+		margin: 0 auto;
+	}
+
+	:global(#gracarca section) {
+		margin: 32px auto;
+		/* padding-top: 32px; */
+	}
+
+	:global(#gracarca h2 span) {
+		background: var(--color-mark);
+		padding: 0 8px;
+	}
+
+	.embla {    
+		overflow: hidden;  
+	}
+
+	.embla__container {    
+		display: flex;  
+	}  
+	
+	.embla__slide {    
+		flex: 0 0 100%;
+		min-width: 0;  
+	}
+</style>
