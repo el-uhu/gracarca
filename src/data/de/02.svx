@@ -23,6 +23,9 @@ Skeletten (7.–8. Jh. n. Chr.) zeigen, dass der Friedhof auch
 nach der Unterbrechung in römischer Zeit noch als solcher
 wahrgenommen wurde.
 
+
+
+
 ## Grabhügel, Steinkisten und Urnen
 
 
@@ -54,7 +57,7 @@ Archäologische Untersuchungen seit den 1960er Jahren konnten etwa 80 Gräber be
 ## Klapperbleche …
 
 
-<!-- ![]({base}/img/02/Frauengrab_Beigaben.jpg)  -->
+![]({base}/img/02/Frauengrab_Beigaben.jpg) 
 
 
 Trachtbestandteile und Beigaben geben uns Einblicke in das Leben und die Glaubensvorstellungen der damaligen Bevölkerung. Neben Urnen aus gebranntem Ton enthielten die Gräber Keramikgefäße mit Speisen für den Übergang ins Jenseits.  
@@ -86,23 +89,5 @@ Die Überreste wurden in einer Keramikurne in einem Grabmal mit Steinpackung fü
 <script>
 import { base } from "$app/paths";
 import Carousel from "$components/carousel.svelte";
-let galleryData = [
-    {
-    "path" : "{base}/img/02/urnengrab-hügel.jpg",
-    "description" : "My image description"
-    },
-    {
-    "path" : "{base}/img/02/urnengrab-flach.jpg",
-    "description" : "My image description"
-    },
-    {
-    "path" : "{base}/img/02/grab.jpg",
-    "description" : "My image description"
-    },
-    {
-    "path" : "{base}/img/02/spinnerin.jpg",
-    "description" : "My image description"
-    }
-]
 </script>
 

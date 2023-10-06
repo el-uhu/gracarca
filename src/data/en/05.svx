@@ -9,15 +9,18 @@ published: true
 
 
 # Gracarca Settlement
-> Quote
+> “Regnum Noricum”
 
 
-## Subtitle
-Plain text
+The Gracarca (pronunciation: graˑˈt͡ʃaːrˌt͡sa; from Slovene “grad/gradec=castle, fortified place) is a tripartite ridge south of the Klopeiner lake, on whose terrain numerous traces of prehistoric settlement activities are still distinguishable. The western extension (676 meters above the Adriatic) is called Dreiseenblick, the elongated middle ridge (672 m AA) has numerous prehistoric settlement terraces and the eastern Georgiberg (624 m AA) was once the site of a medieval, ducal castle.
 
 
-## Subtitle
-Plain text
+## Iron Age terraces
+The prehistoric settlement on the Gracarca was probably built during the beginning of the Iron Age in the 9th century B.C. In the so-called Hallstatt culture sheltered heights were developed as settlement sites. Terraced living platforms were made on the northern slope, on which wooden houses were built using timber frame and log construction. The settlement reached its largest extension in the later Iron Age beginning from the 3rd century B.C. Also the western summit area (Dreiseenblick) was incorporated and a re-terracing of the central areas followed. At this time, the Gracarca was probably one of the biggest Celtic settlements in the Carinthian zone. The settlement existed up until the annexation the Noricum by the Romans (15 B.C.) and presumably was then abandoned.
+
+
+## Norican Iron
+Archeological investigations at the end of the 20th century were able to discover traces of residential houses and local textile production as well as remnants of metal processing. In the Celtic Regnum Noricum period, the Celts already were in touch with their southern neighbors, the Romans. High-quality iron in particular, called Ferrum Noricum by the Romans, was in great demand. The Gracarca could have been playing a major role in trade. Here, iron produced further north in the Görtschitztal could have been processed and tested. A water catchment basin from the final phase of the settlement points out direct contact and maybe even assistance for local Celts by the Romans. It was built using Roman masonry technique in the last decades of the 1st century B.C.
 <script>
 import { base } from "$app/paths";
 import Carousel from "$components/carousel.svelte";

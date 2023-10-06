@@ -37,9 +37,6 @@
 <main id="content">
     <div id="gracarca">
         <section class="content-section">
-			{#each  as }
-				
-			{/each}
         </section>
     </div>
 </main>
