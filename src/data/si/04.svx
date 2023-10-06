@@ -1,0 +1,32 @@
+---
+title: Šentdanijel
+description:
+date: '2023-4-14'
+categories:
+lang: si
+published: true
+---
+
+
+# Šentdanijel
+> “Conversio … Carantanorum”
+
+
+## Krščansko pokopališče
+V 8. in 9. stoletju so pošiljali v vzhodne dežele misijonarje iz Salzburga tudi z namenom, da bi krstili prebivalce slovanske kneževine Karantanije. Knjige iz 9. stoletja opisujejo prizadevanja za posredovanje krščanske vere poganskim Slovanom na današnjem Koroškem.
+Zelo verjetno je, da so cerkev Šentdanijel postavili kmalu po uspešnem misijonu. Staro pokopališče nad Grabaljo vasjo so opustili in okoli cerkve uredili novo.
+Izkopavanja v letu 2019 so pokazala, da je bilo prvotno pokopališče zunaj zdajšnjega pokopališkega obzidja. Pokopališče prebivalci okoliških vasi uporabljajo še danes.
+
+
+## Zgodnjesrednjeveška lastniška cerkev
+Kot ustanovitelj cerkve prihaja v poštev Gabrijel, ki je vasi dal ime. Leta 1050 je bila cerkev Šentdanijel v lasti več oseb. To je dokaz, da je cerkev obstajala že najpozneje v 10. stoletju. Leta 1060 je bila cerkev last briksenškega škofa na Južnem Tirolskem. V 12. stoletju je Šentdanijel šel v last dobrolskega samostana, okoli leta 1238 je cerkev kupil tirolski grof Albert III. in postala je podružnična cerkev fare Kamen v Podjuni.                                                                  
+Edini ostanek romanske cerkvene opreme je romanska kadilnica iz 12. stoletja, ki je na ogled v škofijskem muzeju v Krki.
+
+
+## Poznogotska stavba
+Obstoječo poznogotsko cerkev so sezidali okoli leta 1500 na ostankih romanske cerkve. Glavna ladja vodi v nekoliko ožji prezbiterij s poligonalno apsido. Na zunanji strani apside so okrasni oporniki. Oltarni prostor ima mrežast rebrasti obok, nad ladjo pa je zvezdast rebrasti obok na konzolah. Na figurativno okrašenih sklepnikih so podobe Marije z otrokom, Danijela z levom, škofa s škofovsko mitro in knjigo (sv. Avguštin) ter moškega s školjko, pohodniško palico in klobukom (sv. Jakob).
+<script>
+import { base } from "$app/paths";
+import Carousel from "$components/carousel.svelte";
+</script>
+

@@ -1,0 +1,47 @@
+---
+title: Grabhügel & Karantanen
+description:
+date: '2023-4-14'
+categories:
+lang: de
+published: true
+---
+
+
+# Grabhügel & Karantanen
+
+
+> “Knez - Ban - Župan”
+
+
+
+
+## Sichtbare Monumente
+
+
+Am Weg von Grabelsdorf auf die Gracarca liegt auf einem Sporn ein besonderer Platz. Vor über 2800 Jahren wurde oberhalb des Friedhofs der Bewohner der Gracarca-Siedlung eine kleine Gruppe Grabhügel errichtet. In ihnen wurden in der **Eisenzeit** (9.–1. Jh. v. Chr.) Verstorbene in Urnen bestattet.  
+Die Hügel waren lange Zeit als Grabmonumente erkennbar und so wählte hunderte Jahre später eine **frühmittelalterliche** Gemeinschaft den Ort erneut als ihren Friedhof. Zwischen den Grabhügeln wurden im späten 6. und 7. Jahrhundert n. Chr. Körpergräber angelegt.
+
+
+
+
+## Wertvolles Eisen
+
+
+Im zentralen und größten Grabhügel wurde am Beginn der **älteren Eisenzeit** im 9. Jahrhundert v. Chr. eine hochstehende Persönlichkeit begraben, die mit damals sehr wertvollen eisernen Lanzenspitzen ausgestattet war.  
+Diese Brandbestattung blieb nicht das einzige Grab im Hügel. In der Zeit vom 8. bis 5. Jahrhundert folgten weitere Bestattungen in tönernen Urnen im Grabhügel und um ihn herum. In **keltischer Zeit**, im 3. und 2. Jahrhundert v. Chr., wurden am Rand des Hügels eiserne Waffen deponiert.
+
+
+## Zwischen West und Ost
+
+
+Im **Frühmittelalter**, in der Zeit um 700 n. Chr., wurde der zentrale Grabhügel erneut für eine Bestattung ausgewählt. Aus der reichhaltigen Ausrüstung die dem Toten mitgegeben wurde können wir einige Informationen zum Verstorbenen gewinnen:  
+Der hochgewachsene Mann darf als hochrangige Persönlichkeit im selbständigen **slawischen Fürstentum Karantanien** angesehen werden. Seine Waffe, ein Sax mit einer Klinge aus Furnierdamast, zeigt Verbindungen zum Fränkischen Reich im Westen. Die gegossenen
+Riemenzungen des Militärgürtels haben ihre Vorbilder im Osten, im byzantinischen und awarischen Raum. Ein Sporn weist ihn als Reiter aus.   
+Ob er ein Fürst (“Knez”), ein regionaler Amtsträger (“Ban”) oder doch ein lokaler Anführer eines Siedlungsverbandes (“Župan”) war, lässt
+sich nicht mit Sicherheit sagen.
+<script>
+import { base } from "$app/paths";
+import Carousel from "$components/carousel.svelte";
+</script>
+

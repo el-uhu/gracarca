@@ -1,0 +1,8 @@
+.DS_Store
+node_modules
+.pnpm-store
+.svelte
+.svelte-kit
+build
+functions
+.env
