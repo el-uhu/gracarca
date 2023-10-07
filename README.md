@@ -1,7 +1,8 @@
 # Gracarca Website
 
-## Building
+## Updating and deploying
 ```
 npm run gdoc # Get the new content from google docs
-npm run build
+
+npm run build && make github
 ```

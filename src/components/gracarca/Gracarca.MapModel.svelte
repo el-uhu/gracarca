@@ -16,7 +16,7 @@
 <div class="canvascontainer">
 	<Canvas>
         <T.PerspectiveCamera bind:ref={camera} makeDefault position={cameraSettings.pos} rotation={cameraSettings.rot} fov={75} far={7500}>
-            {#if cameraSettings.orbitcontrols == true}
+            {#if cameraSettings.orbitcontrols == false}
                 <OrbitControls/>
             {/if}
         </T.PerspectiveCamera>
