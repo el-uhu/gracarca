@@ -1,6 +1,6 @@
 ---
 title: Gracarca Settlement
-description:
+description: The settlement on the Gracarca was one of the largest of the Noric region in the Iron Age (9th - 1st century BC). The houses were built on numerous terraces, some of which are still recognisable today.
 date: '2023-4-14'
 categories:
 lang: en

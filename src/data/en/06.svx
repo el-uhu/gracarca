@@ -1,6 +1,6 @@
 ---
 title: St. George's Mountain
-description:
+description: The chapes of St. George has its roots in the 11th century. It was part of a castle that was abandoned in the late 13th century. Today, the ringing of the bell is said to grant wishes.
 date: '2023-4-14'
 categories:
 lang: en

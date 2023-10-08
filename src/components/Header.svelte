@@ -2,18 +2,21 @@
 	import { base } from '$app/paths'
 	import { page } from '$app/stores'
 
-	export let lang
+	export let lang;
+	
+	// Get base url
+	let baseurl = $page.url.origin;
 
 </script>
 
 <header>
 	<div class="header-mark">
-			<p>
+			<a href="{baseurl}/{lang}">
 				<span class="header-text1"> Grabelsdorf</span>
 				<img src={base + "/img/gracarca-logo.png"} alt="gracarca logo" class="header-logo" display="inline">
 				<span class="header-text2"> Grabalja vas</span>
 
-			</p>	
+			</a>	
 	</div>
 	<div id="lang-selection">
 		<ul>

@@ -7,9 +7,10 @@
 	import Index from "$components/Index.svelte";
     import Footer from "$components/Footer.svelte";
     import GracarcaHero from "$components/gracarca/Gracarca.Hero.svelte";
-	import GracarcaMapModel from "$components/gracarca/Gracarca.MapModel.svelte"
-	import { degToRad } from 'three/src/math/MathUtils'
+	import GracarcaMapModel from "$components/gracarca/Gracarca.MapModel.svelte";
+	import { degToRad } from 'three/src/math/MathUtils';
 	import { each } from "svelte/internal";
+	import Card from "$components/gracarca/Card.svelte";
 	
 	let cameraSettings = {
 		"base" : {
@@ -62,10 +63,9 @@
     <div id="gracarca">
         <section class="content-section">
 			{#each posts as article}
-			<div>
-			  <a href= "{$page.url}{article.slug}">{article.title}</a>
-			</div>
-		  {/each}
+				<!-- Use component $components/gracarca/Card.svelte -->
+				<Card article={article}/>
+			{/each}
         </section>
     </div>
 </main>

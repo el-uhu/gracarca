@@ -1,6 +1,6 @@
 ---
 title: Burial ground
-description:
+description: A terrain terrace at the northern foot of the Iron Age settlement on the Gracarca served as the cemetery from the 9th to the 1st century BC
 date: '2023-4-14'
 categories:
 lang: en
