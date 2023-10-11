@@ -10,8 +10,8 @@
 <footer>
 
 	<section class="about">
-		<div class="header-mark">
-			<a href={base} aria-label="The Pudding">
+		<div class="header-mark about">
+			<a href={base} aria-label="Gracarca">
 				<p>
 					<span class="header-text1"> Grabelsdorf</span>
 					<img src={base + "/img/gracarca-logo.png"} alt="gracarca logo" class="header-logo" display="inline">
@@ -21,7 +21,7 @@
 		</div>
 	</section>
 
-	<section class="links">
+	<section class="links about">
 		<ul>
 			{#each links as link}
 				<li>

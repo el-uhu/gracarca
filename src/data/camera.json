@@ -23,7 +23,7 @@
         0.0017453292519943296,
         0.0020943951023931952
       ],
-      "orbitcontrols": false
+      "orbitcontrols": true
     },
     "Test": {
       "pos": [
@@ -36,6 +36,6 @@
         0.005235987755982988,
         3.141592653589793
       ],
-      "orbitcontrols": false
+      "orbitcontrols": true
     }
   }

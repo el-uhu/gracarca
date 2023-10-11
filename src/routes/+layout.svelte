@@ -4,32 +4,42 @@
 	import { browser } from "$app/environment";
 	import Header from "$components/Header.svelte";
 	import Meta from "$components/Meta.svelte";
-	import Index from "$components/Index.svelte";
     import Footer from "$components/Footer.svelte";
-    import GracarcaHero from "$components/gracarca/Gracarca.Hero.svelte";
 	import GracarcaMapModel from "$components/gracarca/Gracarca.MapModel.svelte"
+	import PageTransition from '$components/transition.svelte'
 	import cameraSettings from "$data/camera"
+
 
 	let locales = {
 		"si": "sl_SI",
 		"de": "de_AT",
 		"en": "en_GB"
 	};
+	export let data
 
 	import lang from "$stores/lang"
-	console.log(lang)
+	import cameraPosition from "$stores/camera"
 </script>
 
 <Header lang={$lang}/>
+
 <Meta />
-<GracarcaMapModel cameraSettings={cameraSettings["base"]}/>
+<GracarcaMapModel cameraSettings={cameraSettings[$cameraPosition]}/>
+
 <main id="content">
-	<slot />
+	<PageTransition url={data.url}>
+		<slot />
+	</PageTransition>
 </main>
 
 <Footer />
 
 <style>
+
+	.transition {
+		height: 100%;
+	}
+
 	#gracarca {
 		max-width: 40rem;
 		/* padding: 16px; */

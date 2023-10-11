@@ -11,12 +11,11 @@
 
 <header>
 	<div class="header-mark">
-			<a href="{baseurl}/{lang}">
-				<span class="header-text1"> Grabelsdorf</span>
-				<img src={base + "/img/gracarca-logo.png"} alt="gracarca logo" class="header-logo" display="inline">
-				<span class="header-text2"> Grabalja vas</span>
-
-			</a>	
+		<a target="_self" href="{baseurl}/{lang}">
+			<span class="header-text1"> Grabelsdorf</span>
+			<img src={base + "/img/gracarca-logo.png"} alt="gracarca logo" class="header-logo" display="inline">
+			<span class="header-text2"> Grabalja vas</span>
+		</a>	
 	</div>
 	<div id="lang-selection">
 		<ul>
@@ -30,9 +29,13 @@
 </header>
 
 <style>
+	header{
+		padding: 2em;
+	}
+
 	#lang-selection {
 		width: 230px;
-		padding-top: 0.6em;
+		padding-top: 0rem;
 		display: inline-flex;
 		justify-content:right;
 		align-items: center;

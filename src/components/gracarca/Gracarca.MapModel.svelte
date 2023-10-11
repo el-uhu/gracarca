@@ -7,7 +7,6 @@
     import { degToRad } from 'three/src/math/MathUtils'
 
     export let cameraSettings;
-
     export let camera
 
 </script>
