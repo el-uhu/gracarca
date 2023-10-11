@@ -9,7 +9,6 @@
     export let cameraSettings;
 
     export let camera
-    $: console.log(camera);
 
 </script>
 

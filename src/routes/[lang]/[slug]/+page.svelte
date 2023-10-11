@@ -14,7 +14,14 @@
 	};
 
 	export let data;
-	let lang = data.meta.lang;
+
+	// GET LANGUAGE OG CURRENT PAGE
+	import lang from "$stores/lang"
+	import { page } from "$app/stores";
+	let language = $page.params.lang;
+	$lang = language;
+
+	
 
 	version();
 
@@ -26,8 +33,6 @@
 	setContext("data", data.data);
 </script>
 
-<Header {lang} />
-<main id="content">
 	<Meta
 		{title}
 		{description}
@@ -36,5 +41,10 @@
 		{keywords}
 		lang={locales.lang}
 	/>
-	<Index Texts={data.content} />
-</main>
+
+	<div id="gracarca">
+		<section class="content-section">
+			<svelte:component this={data.content} />
+		</section>
+	</div>
+

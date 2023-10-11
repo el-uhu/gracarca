@@ -1,7 +1,7 @@
 <script>
     import { base } from "$app/paths";
     export let article;
-    console.log(article);
+    // console.log(article);
 </script>
 
 <div>
