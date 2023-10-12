@@ -1,6 +1,6 @@
 ---
 title: Gracarca Siedlung
-description:
+description: Die Siedlung auf der Gracarca war eine der größten der Eisenzeit (9.–1. Jh. v. Chr.) im norischen Raum. Die Häuser standen auf zahlreichen Terrassen, die zum Teil heute noch erkennbar sind.
 date: '2023-4-14'
 categories:
 lang: de

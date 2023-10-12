@@ -1,6 +1,6 @@
 ---
 title: Georgiberg
-description:
+description: Die Kapelle St. Georg hat ihre Wurzeln im 11. Jahrhundert. Sie war Teil einer Burg, die im späten 13. Jahrhundert abkam. Heute soll das Läuten der Glocke Wünsche erfüllen.
 date: '2023-4-14'
 categories:
 lang: de

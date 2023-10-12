@@ -1,6 +1,6 @@
 ---
 title: Grabelsdorf/Grabalja vas
-description: The beginnings of Grabelsdorf date back to the early Middle ages, when it is mentioned in documents as the village of Gabriel. His descendants donated land and farms to the Brixen monastery.
+description: The beginnings of Grabelsdorf date back to the early Middle Ages, where it is mentioned in documents as the village of Gabriel. His descendants donated land and farms to the Brixen monastery.
 date: '2023-4-14'
 categories:
 lang: en
@@ -10,8 +10,6 @@ published: true
 
 # Grabelsdorf/Grabalja vas
 >"in villa Gabrielis..."
-
-<iframe width=100% height=400px src="https://maps.arcanum.com/de/map/cadastral/embed/?bbox=1622672.7269888588%2C5875407.237896863%2C1626301.0971752706%2C5876744.885891855&map-list=1&layers=osm%2C3%2C4" frameborder="0" allowfullscreen></iframe>
 
 
 ## Cultural trail and landscape presentation boards

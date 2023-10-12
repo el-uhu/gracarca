@@ -1,6 +1,6 @@
 ---
 title: St. Daniel
-description:
+description: Der Ursprung der Kirche St. Daniel reicht ins 10. Jahrhundert zurück. Ein romanisches Weihrauchfass ist der einzige Überrest aus der frühen Periode. Das heutige Gebäude stammt aus der Zeit um 1500.
 date: '2023-4-14'
 categories:
 lang: de

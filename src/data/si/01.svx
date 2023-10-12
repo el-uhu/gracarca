@@ -1,6 +1,6 @@
 ---
 title: Grabelsdorf/Grabalja vas
-description:
+description: Začetki Grabalje vasi segajo v zgodnji srednji vek, kjer se v listinah omenja kot Gabrijelova vas. Njegovi potomci so briksenškemu samostanu podarili večino svojih posestev.
 date: '2023-4-14'
 categories:
 lang: si
@@ -42,7 +42,7 @@ Do leta 1090 so grabaljski vladarji, Gabrijelovi potomci, podarili briksenškemu
 ## Svobodni kmetje in poletni turizem
 
 
-![]({base}/img/01/Franz_Kat.jpg)
+<iframe width="100%" height="300" src="https://maps.arcanum.com/de/map/cadastral/embed/?bbox=1622672.7269888588%2C5875407.237896863%2C1626301.0971752706%2C5876744.885891855&map-list=1&layers=osm%2C3%2C4" frameborder="0" allowfullscreen></iframe>
 
 
 Do revolucije leta 1848 so večinoma slovenski grabaljski kmetje delali na svojih kmetijah kot podložniki različnih plemiških posestnikov. Šele od sredine 19. stoletja so lahko dobili kmetije v last kmetje sami in vasi so začele dobivati današnji videz. 

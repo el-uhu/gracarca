@@ -1,6 +1,6 @@
 ---
 title: Burial mounds & Carantanians
-description: A group of burial mounds served as a prominent burial place in the Iron Age(9th-1st century BC). In one of them, a nobleman was buried in the Early Middle Ages (around 700 AD).
+description: A group of burial mounds served as a prominent burial place in the Iron Age (9th–1st century BC). In one of them, a noble man was buried in the early Middle Ages (around 700 AD).
 date: '2023-4-14'
 categories:
 lang: en

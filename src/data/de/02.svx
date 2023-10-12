@@ -1,6 +1,6 @@
 ---
 title: Gräberfeld
-description:
+description: Eine Geländeterrasse am nördlichen Fuß der eisenzeitlichen Siedlung auf der Gracarca diente der Bevölkerung als Friedhof vom 9. bis zum 1. Jh. v. Chr.
 date: '2023-4-14'
 categories:
 lang: de

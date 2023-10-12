@@ -1,6 +1,6 @@
 ---
 title: Naselje na Gracarci
-description:
+description: Naselbina na Gracarci je bila ena največjih v železni dobi (9.–1. stoletje pr. Kr.) na območju Norika. Hiše so stale na številnih terasah, od katerih so nekatere prepoznavne še danes.
 date: '2023-4-14'
 categories:
 lang: si

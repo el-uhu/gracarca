@@ -1,6 +1,6 @@
 ---
 title: Šentjur
-description:
+description: Kapelica svetega Jurija ima svoje korenine v 11. stoletju. Bila je del gradu, ki je propadel konec 13. stoletja. Danes naj bi se z zvonjenjem zvona uresničevale želje.
 date: '2023-4-14'
 categories:
 lang: si

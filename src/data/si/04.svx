@@ -1,6 +1,6 @@
 ---
 title: Šentdanijel
-description:
+description: Nastanek cerkve Šentdanijela sega v 10. stoletje. Edini ostanek iz zgodnjega obdobja je romanska kadilnica. Sedanja stavba je nastala okoli leta 1500.
 date: '2023-4-14'
 categories:
 lang: si

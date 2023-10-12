@@ -1,6 +1,6 @@
 ---
 title: St. Daniels
-description: The origin of the church of St.Daniel goes back to the 10th century. A Romanesque incense burner is the only remnant from the early period. The present building dates from around 1500.
+description: The origin of the church of St. Daniel goes back to the 10th century. A Romanesque incense burner is the only remnant from the early period. The present building dates from around 1500.
 date: '2023-4-14'
 categories:
 lang: en

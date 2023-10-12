@@ -29,6 +29,11 @@
 			}
 		);
 	});
+
+	import TextEn from '$data/en/00.md'
+	import TextSi from '$data/si/00.md'
+	import TextDe from '$data/de/00.md'
+ 
 </script>
 
 
@@ -36,7 +41,16 @@
 />
 
 <div id="gracarca">
+	
+
 	<section class="content-section">
+		{#if language === "en"}
+			<TextEn />
+		{:else if language === "si"}
+			<TextSi />
+		{:else if language === "de"}
+			<TextDe />
+		{/if}
 		{#each posts as article}
 			<!-- Use component $components/gracarca/Card.svelte -->
 			<Card article={article}/>

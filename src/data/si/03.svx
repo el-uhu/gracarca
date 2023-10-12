@@ -1,6 +1,6 @@
 ---
 title: Grobne gomile in  Karantanci
-description:
+description: Skupina gomil je v železni dobi (9.–1. stoletje pr. Kr.) služila kot pomembno grobišče. V zgodnjem srednjem veku (okoli leta 700 po Kr.) so v eni od njih pokopali plemenitega moža.
 date: '2023-4-14'
 categories:
 lang: si

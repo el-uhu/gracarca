@@ -1,6 +1,6 @@
 ---
 title: Grobišče
-description:
+description: Na vznožju železnodobne naselbine na Gracarci je vzpetina nad Grabaljo vasjo od 9. do 1. stoletja pred Kristusom služila prebivalcem kot pokopališče.
 date: '2023-4-14'
 categories:
 lang: si

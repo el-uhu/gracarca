@@ -5,9 +5,11 @@
 	import { GLTF, useGltfAnimations } from '@threlte/extras'
     import { spring } from 'svelte/motion'
     import { degToRad } from 'three/src/math/MathUtils'
+    import { TextureLoader } from 'three';
+    import { useLoader } from '@threlte/core';
 
     export let cameraSettings;
-    export let camera
+    let camera
 
 </script>
 
@@ -20,6 +22,7 @@
         </T.PerspectiveCamera>
         
         <GLTF url={base + "/models/Gracarca_SkyView_Weg_Tafeln_2023-03-22.gltf"}/>
+
 	</Canvas>
 </div>
 
