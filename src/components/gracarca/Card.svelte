@@ -6,7 +6,7 @@
 
 <div>
     <h6>
-        <a href= "{article.slug}"> {article.slug} {article.title}</a>
+        <a href= "{article.slug}" target="_self"> {article.slug} {article.title}</a>
     </h6>
     <p>
         {article.description}
