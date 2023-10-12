@@ -1,0 +1,58 @@
+{
+	"name": "svelte-starter",
+	"version": "5.6.1",
+	"scripts": {
+		"gdoc": "node tasks/fetch-google.js",
+		"style": "node tasks/style-dictionary.js",
+		"dev": "vite dev",
+		"build": "vite build",
+		"preview": "vite preview",
+		"lint": "prettier --check --plugin-search-dir=. .",
+		"format": "prettier --write --plugin-search-dir=. ."
+	},
+	"devDependencies": {
+		"@dimforge/rapier3d-compat": "^0.11.2",
+		"@rollup/plugin-dsv": "^3.0.2",
+		"@sveltejs/adapter-static": "2.0.1",
+		"@sveltejs/adapter-vercel": "^3.0.3",
+		"@sveltejs/kit": "^1.25.2",
+		"@theatre/core": "^0.6.0",
+		"@theatre/studio": "^0.6.0",
+		"@threlte/core": "^5.0.9",
+		"@threlte/extras": "^4.9.3",
+		"@threlte/preprocess": "^0.0.2",
+		"@threlte/rapier": "^0.5.0",
+		"@threlte/theatre": "^0.0.2",
+		"@types/three": "^0.149.0",
+		"archieml": "^0.5.0",
+		"autoprefixer": "^10.4.13",
+		"d3": "^7.8.2",
+		"layercake": "^7.2.2",
+		"lodash.debounce": "^4.0.8",
+		"lucide-svelte": "^0.118.0",
+		"postcss": "^8.4.21",
+		"prettier": "^2.8.4",
+		"prettier-plugin-svelte": "^2.9.0",
+		"rollup": "^3.17.3",
+		"rollup-plugin-svg": "^2.0.0",
+		"style-dictionary": "^3.7.2",
+		"svelte": "^3.55.1",
+		"svelte-copy": "^1.3.0",
+		"svelte-preprocess": "^5.0.1",
+		"svelte-sequential-preprocessor": "^1.0.0",
+		"sveltekit-autoimport": "^1.7.1",
+		"three": "^0.150.1",
+		"vite": "^4.1.4",
+		"vite-plugin-svgstring": "^1.0.0"
+	},
+	"type": "module",
+	"engines": {
+		"node": ">= 18.12.0"
+	},
+	"browserslist": "> 0.5%, last 4 versions, not ie <= 11, not ie_mob <= 11",
+	"subdirectory": "svelte-starter",
+	"dependencies": {
+		"embla-carousel-svelte": "8.0.0-rc02",
+		"mdsvex": "^0.10.6"
+	}
+}

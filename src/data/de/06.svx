@@ -1,0 +1,50 @@
+---
+title: Georgiberg
+description:
+date: '2023-4-14'
+categories:
+lang: de
+published: true
+---
+
+
+# Georgiberg
+> “Castrum Sancti Georgii in Iountal”
+
+
+## Verschwundene Burg
+Der Georgiberg ist mit 624 m der östliche Ausläufer der Gracarca. Es ist anzunehmen, dass auch er in der **Eisenzeit** (9.–1. Jh. v. Chr.) in die Siedlung auf dem westlich anschließenden Höhenrücken eingebunden gewesen ist. Bisher konnten aber keine archäologischen
+Spuren dieser Zeit gefunden werden.  
+Heute befindet sich auf dem Gipfel eine im Kern romanische Kirche. Neben dieser dürfte sich im **Hochmittelalter** eine herzogliche Burg befunden haben. Im Jahr 1267/1268 ist sie urkundlich als castrum
+bezeugt. Bisher konnten keine baulichen Spuren davon untersucht werden, bei archäologischen Grabungen traten lediglich jüngere Armbrustbolzen und tönernes Kochgeschirr zutage.    
+Die Burg selbst dürfte im Zuge von Wirren um die Erbfolge im Herzogtum Kärnten am Ende des 13. Jahrhunderts aufgegeben worden sein.
+
+
+
+
+Im oberen Bereich des Westabhanges lassen sich heute noch Wälle erkennen, die aber mit Material aus dem **Spätmittelalter** aufgeschüttet worden sind. Sie wurden also frühestens im 15.Jahrhundert errichtet und gehörten damit nicht zur Burg.
+
+
+
+
+Ihre Spuren hinterließ die Burg in den Flur- und Ortsnamen. So weisen die Ortschaften Ober- und Unterburg am Fuße des Georgiberges Bezüge zu ihr auf. Auch der Klopeiner See wurde im 13. Jahrhundert nach ihr
+bzw. der Kirche "St.-Georgs-See'' (*lacum sancti Georgii*) bezeichnet.
+
+
+
+
+## Kapelle und Wunschglocke
+Erste urkundliche Nennungen der Georgikirche reichen in das Jahr 1060 zurück. Der Brixner Dienstmann Noppo schenkte Güter um die Kirche dem Bistum Brixen.   
+Das Kirchengebäude besitzt im Kern des Langhauses noch Mauerteile aus dem 11. Jahrhundert. Das heutige Erscheinungsbild hat sie nach zahlreichen Umbauten. Kurz nach 1500 wurde der spätgotische Chor mit einem 5/8-Schluss und Netzrippengewölbe errichtet. Nach einem Brand im
+Jahr 1643 verstärkte man die Nordwand durch starke Strebepfeiler und gestaltete das Langhaus mit einem dreijochigen Kreuzgratgewölbe und einem schmalen, spitzbogigen Triumphbogen. Aus spätgotischer Zeit
+stammen auch Wandmalereien an den Chorwänden mit Darstellungen von Aposteln. Südlich angebaut wurde ein kleiner tonnengewölbter Kapellenbau mit Dachreiter, der einen barocken Flügelaltar enthält.
+
+
+
+
+Mit der Glocke im Glockenturm sind zahlreiche Legenden verbunden. So sollen sich nach deren Läuten Wünsche erfüllen.
+<script>
+import { base } from "$app/paths";
+import Carousel from "$components/carousel.svelte";
+</script>
+
