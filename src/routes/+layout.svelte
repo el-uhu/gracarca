@@ -2,12 +2,12 @@
     import "$styles/app.css";
 	import { setContext } from "svelte";
 	import { browser } from "$app/environment";
+	import { get } from "svelte/store";
 	import Header from "$components/Header.svelte";
 	import Meta from "$components/Meta.svelte";
     import Footer from "$components/Footer.svelte";
-	import GracarcaMapModel from "$components/gracarca/Gracarca.MapModel.svelte"
+	import Sketchfab from "../components/Sketchfab.svelte";
 	import PageTransition from '$components/transition.svelte'
-	import cameraSettings from "$data/camera"
 
 
 	let locales = {
@@ -18,13 +18,17 @@
 	export let data
 
 	import lang from "$stores/lang"
-	import cameraPosition from "$stores/camera"
+	import camera from "$stores/camera"
+
+
 </script>
 
 <Header lang={$lang}/>
 
 <Meta />
-<GracarcaMapModel cameraSettings={cameraSettings[$cameraPosition]}/>
+<!-- <GracarcaMapModel cameraSettings={cameraSettings[$cameraPosition]}/> -->
+<Sketchfab camera={get(camera)}/>
+
 
 <main id="content">
 	<PageTransition url={data.url}>
