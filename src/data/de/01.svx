@@ -1,6 +1,6 @@
 ---
 title: Grabelsdorf/Grabalja vas
-description:Die Anfänge Grabelsdorfs reicht in das frühe Mittelalter zurück, wo es als Dorf des Gabriel in Urkunden genannt wird. Dessen Nachkommen schenkten Güter und Höfe dem Stift Brixen.
+description:Die Anfänge Grabelsdorfs reichen in das frühe Mittelalter zurück, wo es als Dorf des Gabriel in Urkunden genannt wird. Dessen Nachkommen schenkten Güter und Höfe dem Stift Brixen.
 date: '2023-4-14'
 categories:
 lang: de
@@ -59,9 +59,9 @@ der Edle Liuto, sein Bruder Reginprecht und die Edle Gotta übergaben ein Dutzen
 ## Freie Bauern und Sommerfrische
 
 
+<iframe width="100%" height="300" src="https://maps.arcanum.com/de/map/cadastral/embed/?bbox=1622672.7269888588%2C5875407.237896863%2C1626301.0971752706%2C5876744.885891855&map-list=1&layers=osm%2C3%2C4" frameborder="0" allowfullscreen></iframe>
 
 
-![]({base}/img/01/Franz_Kat.jpg)
 Bis zur Revolution 1848 waren die durchwegs slowenischen Bauern in Grabelsdorf als Untertanen der verschiedenen adeligen Besitzer auf ihren Höfen tätig. Erst ab Mitte des 19. Jahrhunderts konnten sie die Höfe erwerben und die Entwicklung zur heutigen Dorfstruktur nahm ihren Anfang. 
 
 
