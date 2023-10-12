@@ -27,7 +27,7 @@
 
 <Meta />
 <!-- <GracarcaMapModel cameraSettings={cameraSettings[$cameraPosition]}/> -->
-<Sketchfab camera={get(camera)}/>
+<Sketchfab camera={$camera}/>
 
 
 <main id="content">
