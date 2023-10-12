@@ -1,0 +1,9 @@
+.DS_Store
+node_modules
+.pnpm-store
+.vercel
+.svelte
+.svelte-kit
+build
+functions
+.env

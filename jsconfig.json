@@ -1,0 +1,45 @@
+{
+	"compilerOptions": {
+		"baseUrl": "https://el-uhu.github.io/gracarca",
+		"paths": {
+			"$lib": [
+				"src"
+			],
+			"$lib/*": [
+				"src/*"
+			],
+			"$actions/*": [
+				"src/actions/*"
+			],
+			"$components/*": [
+				"src/components/*"
+			],
+			"$data/*": [
+				"src/data/*"
+			],
+			"$routes/*": [
+				"src/routes/*"
+			],
+			"$stores/*": [
+				"src/stores/*"
+			],
+			"$styles/*": [
+				"src/styles/*"
+			],
+			"$svg/*": [
+				"src/svg/*"
+			],
+			"$utils/*": [
+				"src/utils/*"
+			],
+		}
+	},
+	"include": [
+		"src/**/*.js",
+		"src/**/*.svelte"
+, "src/routes/api/posts/+server.ts"	],
+	"exclude": [
+		"tasks/*.js"
+	],
+	"extends": "./.svelte-kit/tsconfig.json"
+}

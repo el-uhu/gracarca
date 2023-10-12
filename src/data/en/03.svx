@@ -1,0 +1,39 @@
+---
+title: Burial mounds & Carantanians
+description: A group of burial mounds served as a prominent burial place in the Iron Age (9th–1st century BC). In one of them, a noble man was buried in the early Middle Ages (around 700 AD).
+date: '2023-4-14'
+categories:
+lang: en
+published: true
+---
+
+
+# Burial mounds & Carantanians
+> “Knez - Ban - Župan”
+
+
+## Visible monuments
+On the way from Grabelsdorf on the Gracarca a special place is situated on a spur. A small group of burial mounds was erected above the cemetery of the inhabitants of the Gracarca settlement 2800 years ago. Deceased were buried in them in urns during the Iron Age (9th–1st century B.C.).
+The mounds were distinguishable as grave monuments for a long time which is why hundreds of years later on an early medieval community chose to use the location as their cemetery again. Inhumation graves were built between the burial mounds during the late 6th and 7th century A.D.
+
+
+## Valuable iron
+In the central and largest burial mound a superior personality was buried in the beginning of the later Iron Age in the 9th century B.C., and was provided with iron spearheads which were very valuable in those times. This cremation was not the only burial in the mound. In the period from the 8th to the 5th century B.C. further burials in clay urns followed in the mound and around it. During the Celtic period, in the 3rd and 2nd century B.C., iron weapons were deposited on the edge of the mound.
+
+
+## Between West and East
+In the early Middle Age, in the time around 700 A.D., the central burial mound was again chosen for an interment. We can derive some information about the deceased from the extensive gear of the buried body:
+The tall man may be seen as a superior personality in the independent Slavic principality Carantania. His weapon, a seax with a blade out of veneer Damascus steel shows the connections to Francia in the West. The cast strap-ends of the military belt have their archetypes in the East, in the Byzantine and Avar region. A spur identifies him as a horseman. Whether he was a prince (“Knez”), a regional official (“Ban”) or rather the local leader of a settlement union (“Župan”) cannot be concluded for certain.
+
+
+## Description of the findings:
+1.        Iron longseax, damascened iron
+2.        Byzantine belt fittings, bronze
+3.        Spur, iron
+4.        Decorated container, bone
+5.        2 knives, iron
+<script>
+import { base } from "$app/paths";
+import Carousel from "$components/carousel.svelte";
+</script>
+

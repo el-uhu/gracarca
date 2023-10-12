@@ -1,0 +1,47 @@
+---
+title: Gracarca Siedlung
+description: Die Siedlung auf der Gracarca war eine der größten der Eisenzeit (9.–1. Jh. v. Chr.) im norischen Raum. Die Häuser standen auf zahlreichen Terrassen, die zum Teil heute noch erkennbar sind.
+date: '2023-4-14'
+categories:
+lang: de
+published: true
+---
+
+
+# Gracarca Siedlung
+> “Regnum Noricum”
+
+
+
+
+## Überblick
+
+
+Die Gracarca (Aussprache: graˑˈt͡ʃaːrˌt͡saˑ; von slowenisch “grad/gradec" = Burg, befestigter Ort) ist ein dreigliedriger Höhenrücken südlich des Klopeiner Sees, auf dem zahlreiche Spuren urgeschichtlicher Siedlungstätigkeiten im Gelände erkennbar sind.   
+Der westliche Ausläufer (676 m) wird als Dreiseenblick bezeichnet, der mittlere langgestreckte Höhenrücken (672 m) weist zahlreiche urgeschichtliche Siedlungsterrassen auf und der östliche Georgiberg (624 m) war einst Standort einer mittelalterlichen, herzoglichen Burg.
+
+
+
+
+## Eisenzeitliche Terrassen
+
+
+Die urgeschichtliche Siedlung auf der Gracarca dürfte am Beginn der **Eisenzeit** im 9. Jahrhundert v. Chr. angelegt worden sein. In der sogenannten Hallstattkultur wurden geschützte Höhen als Siedlungsplätze erschlossen.  
+Es wurden terrassenartige Wohnpodien am Nordhang angelegt, auf denen Holzhäuser in Ständer- und Blockbauweise errichtet wurden.   
+Die größte Ausdehnung erlebte die Siedlung in der **jüngeren Eisenzeit** ab dem 3. Jahrhundert v. Chr. Es wurde auch der westliche Gipfelbereich (Dreiseenblick) miteinbezogen und es kam zu einer Neuterrassierung der zentralen Bereiche.  
+Zu dieser Zeit dürfte die Gracarca eine der größten keltischen Siedlungen im Kärntner Raum gewesen sein. Die Siedlung bestand bis zur Annexion Noricums durch die Römer (15 v. Chr.) und wurde dann wohl  aufgegeben.
+
+
+
+
+## Norisches Eisen
+
+
+Archäologische Untersuchungen am Ende des 20. Jahrhunderts konnten neben Spuren von Wohnhäusern und lokaler Textilproduktion auch Überreste von Metallverarbeitung feststellen. In der Zeit des keltischen *Regnum Noricum* standen die Kelten bereits in Kontakt mit den südlichen Nachbarn, den Römern. Vor allem qualitätsvolles Eisen, von den Römern als *Ferrum Noricum* bezeichnet, war sehr begehrt. Die Gracarca könnte eine wichtige Rolle im Handel gespielt haben.
+Das nördlich im Görtschitztal gewonnene Eisen könnte hier weiterverarbeitet und geprüft worden sein.    
+Direkte Kontakte und möglicherweise auch Unterstützung für die lokalen Kelten durch die Römer zeigt ein Wasserauffangbecken aus der Endphase der Siedlung. Es ist in römischer Mauertechnik in den letzten Jahrzehnten des 1. Jahrhunderts v. Chr. errichtet worden.
+<script>
+import { base } from "$app/paths";
+import Carousel from "$components/carousel.svelte";
+</script>
+

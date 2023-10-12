@@ -1,0 +1,62 @@
+---
+title: Grabelsdorf/Grabalja vas
+description: Začetki Grabalje vasi segajo v zgodnji srednji vek, kjer se v listinah omenja kot Gabrijelova vas. Njegovi potomci so briksenškemu samostanu podarili večino svojih posestev.
+date: '2023-4-14'
+categories:
+lang: si
+published: true
+---
+
+
+# Grabalja vas
+> "in villa Gabrielis..."
+
+
+## Kulturna pot in bralni znaki
+Grabalja vas leži v kulturni krajini, ki jo ljudje že tisočletja obdelujejo in oblikujejo. Na hribovitem območju med Klopinjskim in Zablaškim jezerom so gradili vasi, kmetije, gradove in cerkve. Pokojnikom so pripravili posebne grobne gomile ali jih pokopavali na pokopališčih. 
+
+
+![]({base}/img/01/Jauntal_pano.jpg)
+
+
+Na dveh istoimenskih gričih sta še danes ohranjeni 1000 let stari cerkvi Šentdanijel in Šentjur. Veliko težje je prepoznati sledi 3000 let stare železnodobne naselbine na Gracarci ter z njo povezanega pokopališča nad Grabaljo vasjo.
+
+
+![]({base}/img/01/Kirche_LB1.jpg)
+
+
+Za prepoznavanje teh zgodovinskih sledi so na pomembnih mestih postavljene table, ki so bralni znaki za nadaljnje informacije o zgodovini kraja, kjer se pravkar nahajate. S QR kodo lahko prek mobilne naprave pridete še do dodatnih vsebin.
+
+
+## Gabrijelova vas
+Korenine Grabalje vasi segajo v 7. stoletje po Kristusu. V času slovanske kneževine Karantanije se je ob vznožju Gracarce naselila skupnost ljudi, o kateri je arheologija poučena le zaradi pokopališča.
+Prvič se Grabalja vas kot villa Gabrielis, Gabrijelova vas, pojavi v listinah okoli leta 1050. Domnevamo lahko, da je imenodajalec Gabrijel živel v 8. ali 9. stoletju in pripadal prvi generaciji pokristjanjenih Slovanov. S krstom so pogosto sprejeli svetopisemska oziroma starozavezna imena. 
+
+
+![]({base}/img/01/Schenkungen.png) 
+
+
+Do leta 1090 so grabaljski vladarji, Gabrijelovi potomci, podarili briksenškemu samostanu večino svojih posestev: plemeniti Liuto, njegov brat Reginprecht ter plemenita Gotta so samostanu predali ducat hub, vrtove in vinograde.
+
+
+## Svobodni kmetje in poletni turizem
+
+
+<iframe width="100%" height="300" src="https://maps.arcanum.com/de/map/cadastral/embed/?bbox=1622672.7269888588%2C5875407.237896863%2C1626301.0971752706%2C5876744.885891855&map-list=1&layers=osm%2C3%2C4" frameborder="0" allowfullscreen></iframe>
+
+
+Do revolucije leta 1848 so večinoma slovenski grabaljski kmetje delali na svojih kmetijah kot podložniki različnih plemiških posestnikov. Šele od sredine 19. stoletja so lahko dobili kmetije v last kmetje sami in vasi so začele dobivati današnji videz. 
+
+
+![]({base}/img/01/posestni_list.jpg)
+
+
+V povojnih letih naraščajoči turizem okoli jezer je poživil tudi Grabaljo vas. Okoli prvotnih kmetij je nastala obcestna vas, v kateri se je do danes tudi v vsakdanjem življenju ohranila značilna dvojezičnost z nemškim in slovenskim jezikom.
+
+
+![]({base}/img/01/Sommerfrische_AK_1953.jpg)
+<script>
+import { base } from "$app/paths";
+import Carousel from "$components/carousel.svelte";
+</script>
+
