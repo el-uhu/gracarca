@@ -1,6 +1,7 @@
 <script>
 	import Header from "$components/Header.svelte";
 	import Meta from "$components/Meta.svelte";
+	import Navigation from "../../components/gracarca/navigation.svelte";
 	import { each } from "svelte/internal";
 	import Card from "$components/gracarca/Card.svelte";
 
@@ -10,6 +11,7 @@
 
 	let language = $page.params.lang;
 	$lang = language;
+	let slug = ""
 
 	// GETTING DATA FROM THE API
 	// import onMount hook, which will make the function run when DOM is first rendered
@@ -42,6 +44,7 @@
 
 <div id="gracarca">
 	<section class="content-section">
+		<Navigation language={language} slug={slug}/>
 		{#if language === "en"}
 			<TextEn />
 		{:else if language === "si"}
@@ -53,5 +56,6 @@
 			<!-- Use component $components/gracarca/Card.svelte -->
 			<Card article={article}/>
 		{/each}
+		<Navigation language={language} slug={slug}/>
 	</section>
 </div>

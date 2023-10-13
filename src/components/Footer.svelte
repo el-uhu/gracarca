@@ -1,5 +1,6 @@
 <script>
-	import { base } from '$app/paths';
+	import { base } from '$app/paths'
+	import items from '$data/credits' 
 
 	export let lang
 
@@ -7,28 +8,6 @@
 		{ name: "Biotop*", url: "https://biotop.co" },
 		{ name: "Novetus", url: "https://www.novetus.at/"}
 	];
-
-	const items = {
-		"en" : [
-			"Scientific Lead: Martin Fera",
-			"Design: Wolfgang Schütz, Lukas Hutter",
-			"Translation: Sonja Kert-Wakounig",
-			"In cooperation with:"
-				],
-		"si" : [
-			"Znanstveni vodja: Martin Fera",
-			"Oblikovanje: Wolfgang Schütz, Lukas Hutter",
-			"Prevodi: Sonja Kert-Wakounig",
-			"V sodelovanju z:"
-		],
-		"de" : [
-			"Wissenschaftliche Leitung: Martin Fera",
-			"Gestaltung: Wolfgang Schütz, Lukas Hutter",
-			"Übersetzung: Sonja Kert-Wakounig",
-			"In Zusammenarbeit mit:"
-
-		]
-	}
 
 </script>
 
@@ -48,7 +27,14 @@
 
 	<section class="links about">
 		{#each items[lang] as item}
-			<p>{item}</p>
+			<p>
+				<span>
+					{item.title}
+				</span> : 
+				<b>
+					{item.name}
+				</b>
+			</p>
 		{/each}
 
 		<ul>

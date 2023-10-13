@@ -51,8 +51,9 @@
 
 	<div id="gracarca">
 		<section class="content-section">
+			<Navigation language={language} slug={slug}/>
 			<svelte:component this={data.content} />
-			<Navigation {language}/>
+			<Navigation language={language} slug={slug}/>
 		</section>
 		
 	</div>

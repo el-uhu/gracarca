@@ -1,5 +1,6 @@
 <script>
     export let language
+	export let slug
     	// GETTING DATA FROM THE API
 	// import onMount hook, which will make the function run when DOM is first rendered
 	import { onMount } from "svelte";
@@ -21,13 +22,27 @@
 </script>
 
 <div class="nav">
-    <ul>
-        {#each posts as post}
-            <li>
-                <a href="{$page.url.origin}/{language}/{post.slug}" target="_self">
-                    {post.title}
-                </a>
-            </li>
-        {/each}
-    </ul>
+	{#each posts as post}
+		<div>
+			<a href="{$page.url.origin}/{language}/{post.slug}" target="_self">
+				<img src="/img/icons/{post.slug}.png" width="50px" class:active="{post.slug === slug}"/>
+			</a>
+		</div>
+	{/each}
 </div>
+
+<style>
+	.nav {
+		display: flex;
+		align-items: center;
+ 		justify-content: center;
+	}
+
+	img {
+		filter: grayscale(100%);
+	}
+
+	img.active {
+		filter: grayscale(0%)
+	}
+</style>

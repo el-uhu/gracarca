@@ -1,0 +1,56 @@
+{
+    "en" : [
+        {
+            "title": "Scientific Lead",
+            "name": "Martin Fera"
+        },
+        {
+            "title": "Design",
+            "name": "Wolfgang Schütz, Lukas Hutter"
+        },
+        {
+            "title": "Translation",
+            "name": "Sonja Kert-Wakounig"
+        },
+        {
+            "title": "In cooperation with",
+            "name": ""
+        }
+        ],
+    "si" : [
+        {
+            "title": "Znanstveni vodja",
+            "name": "Martin Fera"
+        },
+        {
+            "title": "Oblikovanje",
+            "name": "Wolfgang Schütz, Lukas Hutter"
+        },
+        {
+            "title": "Prevodi",
+            "name": "Sonja Kert-Wakounig"
+        },
+        {
+            "title": "V sodelovanju z",
+            "name": ""
+        }
+    ],
+    "de" : [
+        {
+            "title": "Wissenschaftliche Leitung",
+            "name": "Martin Fera"
+        },
+        {
+            "title": "Gestaltung",
+            "name": "Wolfgang Schütz, Lukas Hutter"
+        },
+        {
+            "title": "Übersetzung",
+            "name": "Sonja Kert-Wakounig"
+        },
+        {
+            "title": "In Zusammenarbeit mit",
+            "name": ""
+        }
+    ]
+}
