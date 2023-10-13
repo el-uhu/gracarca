@@ -1,6 +1,6 @@
 ---
 title: Grabelsdorf/Grabalja vas
-description:Die Anfänge Grabelsdorfs reichen in das frühe Mittelalter zurück, wo es als Dorf des Gabriel in Urkunden genannt wird. Dessen Nachkommen schenkten Güter und Höfe dem Stift Brixen.
+description: Die Anfänge Grabelsdorfs reichen in das frühe Mittelalter zurück, wo es als Dorf des Gabriel in Urkunden genannt wird. Dessen Nachkommen schenkten Güter und Höfe dem Stift Brixen.
 date: '2023-4-14'
 categories:
 lang: de
