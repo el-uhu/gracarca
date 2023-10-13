@@ -92,7 +92,7 @@ h6 {
 	font-size: var(--20px, 20px);
 }
 
-@media (min-width:768px) {
+@media (max-width:768px) {
 	h1 {
 		font-size: var(--28px, 28px) !important;
 	}
@@ -110,6 +110,11 @@ h6 {
 	}
 	h6 {
 		font-size: var(--16px, 16px) !important;
+	}
+
+	h1, h2, h3, h4, h5, h6, p {
+		margin-top: 8px !important;
+		margin-bottom: 8px !important;
 	}
 	
 }
@@ -221,11 +226,17 @@ header {
 	color: var(--color-fg)
 }
 
+@media (max-width:768px) {
+	.header-text1, .header-text2 {
+		font-size: 0.8em !important;
+	}
+}
+
 footer {
 	background-color: var(--color-gray-300) !important;
 }
 
-@media (min-width:768px) {
+@media (max-width:768px) {
 	#gracarca{
 		width:100%;
 	}
