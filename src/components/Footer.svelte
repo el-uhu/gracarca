@@ -1,14 +1,8 @@
 <script>
 	import { base } from '$app/paths'
 	import items from '$data/credits' 
-
+	import links from '$data/cooperators'
 	export let lang
-
-	const links = [
-		{ name: "Biotop*", url: "https://biotop.co" },
-		{ name: "Novetus", url: "https://www.novetus.at/"}
-	];
-
 </script>
 
 <footer>
@@ -41,11 +35,12 @@
 			{#each links as link}
 				<li>
 					<a href={link.url}>
-						<span>
+						<img src={link.logo} width=150px />
+						<!-- <span>
 							<b>
 								{link.name.toUpperCase()}
 							</b>
-						</span>
+						</span> -->
 					</a>
 				</li>
 			{/each}
