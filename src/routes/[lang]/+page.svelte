@@ -41,8 +41,6 @@
 />
 
 <div id="gracarca">
-	
-
 	<section class="content-section">
 		{#if language === "en"}
 			<TextEn />

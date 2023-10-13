@@ -36,7 +36,7 @@
 	</PageTransition>
 </main>
 
-<Footer />
+<Footer lang={$lang}/>
 
 <style>
 
