@@ -92,6 +92,28 @@ h6 {
 	font-size: var(--20px, 20px);
 }
 
+@media (min-width:768px) {
+	h1 {
+		font-size: var(--28px, 28px) !important;
+	}
+	h2 {
+		font-size: var(--24px, 24px) !important;
+	}
+	h3 {
+		font-size: var(--22px, 22px) !important;
+	}
+	h4 {
+		font-size: var(--20px, 20px) !important;
+	}
+	h5 {
+		font-size: var(--18px, 18px) !important;
+	}
+	h6 {
+		font-size: var(--16px, 16px) !important;
+	}
+	
+}
+
 #text, label {
 	font-family: "Archivo" !important;
 	
@@ -201,4 +223,10 @@ header {
 
 footer {
 	background-color: var(--color-gray-300) !important;
+}
+
+@media (min-width:768px) {
+	#gracarca{
+		width:100%;
+	}
 }
