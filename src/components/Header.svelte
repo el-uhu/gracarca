@@ -33,6 +33,12 @@
 		padding: 2em;
 	}
 
+	@media (max-width: 768px) {
+		header {
+			padding: 1em;
+		}
+	}
+
 	#lang-selection {
 		width: 230px;
 		padding-top: 0rem;
