@@ -12,7 +12,11 @@ published: true
 > “Castrum Sancti Georgii in Iountal”
 
 
+
+
 ## Verschwundene Burg
+
+
 Der Georgiberg ist mit 624 m der östliche Ausläufer der Gracarca. Es ist anzunehmen, dass auch er in der **Eisenzeit** (9.–1. Jh. v. Chr.) in die Siedlung auf dem westlich anschließenden Höhenrücken eingebunden gewesen ist. Bisher konnten aber keine archäologischen
 Spuren dieser Zeit gefunden werden.  
 Heute befindet sich auf dem Gipfel eine im Kern romanische Kirche. Neben dieser dürfte sich im **Hochmittelalter** eine herzogliche Burg befunden haben. Im Jahr 1267/1268 ist sie urkundlich als castrum
@@ -20,29 +24,40 @@ bezeugt. Bisher konnten keine baulichen Spuren davon untersucht werden, bei arch
 Die Burg selbst dürfte im Zuge von Wirren um die Erbfolge im Herzogtum Kärnten am Ende des 13. Jahrhunderts aufgegeben worden sein.
 
 
+![]({base}/img/06/Kirche_Miha.jpg)
 
 
 Im oberen Bereich des Westabhanges lassen sich heute noch Wälle erkennen, die aber mit Material aus dem **Spätmittelalter** aufgeschüttet worden sind. Sie wurden also frühestens im 15.Jahrhundert errichtet und gehörten damit nicht zur Burg.
-
-
 
 
 Ihre Spuren hinterließ die Burg in den Flur- und Ortsnamen. So weisen die Ortschaften Ober- und Unterburg am Fuße des Georgiberges Bezüge zu ihr auf. Auch der Klopeiner See wurde im 13. Jahrhundert nach ihr
 bzw. der Kirche "St.-Georgs-See'' (*lacum sancti Georgii*) bezeichnet.
 
 
+<iframe width="100%" height="300" src="https://maps.arcanum.com/de/map/thirdsurvey25000/embed/?bbox=1622550.3376803533%2C5875987.239142394%2C1629807.0780531773%2C5878662.535132375&map-list=1&layers=129" frameborder="0" allowfullscreen></iframe>
+
+
 
 
 ## Kapelle und Wunschglocke
-Erste urkundliche Nennungen der Georgikirche reichen in das Jahr 1060 zurück. Der Brixner Dienstmann Noppo schenkte Güter um die Kirche dem Bistum Brixen.   
+
+
+Erste urkundliche Nennungen der Georgikirche reichen in das Jahr 1060 zurück. Der Brixner Dienstmann Noppo schenkte Güter um die Kirche dem Bistum Brixen. 
+
+
 Das Kirchengebäude besitzt im Kern des Langhauses noch Mauerteile aus dem 11. Jahrhundert. Das heutige Erscheinungsbild hat sie nach zahlreichen Umbauten. Kurz nach 1500 wurde der spätgotische Chor mit einem 5/8-Schluss und Netzrippengewölbe errichtet. Nach einem Brand im
 Jahr 1643 verstärkte man die Nordwand durch starke Strebepfeiler und gestaltete das Langhaus mit einem dreijochigen Kreuzgratgewölbe und einem schmalen, spitzbogigen Triumphbogen. Aus spätgotischer Zeit
-stammen auch Wandmalereien an den Chorwänden mit Darstellungen von Aposteln. Südlich angebaut wurde ein kleiner tonnengewölbter Kapellenbau mit Dachreiter, der einen barocken Flügelaltar enthält.
+stammen auch Wandmalereien an den Chorwänden mit Darstellungen von Aposteln. 
 
 
+![]({base}/img/06/Glocke01_Web_2023-10-12.png)
 
 
+Südlich angebaut wurde ein kleiner tonnengewölbter Kapellenbau mit Dachreiter, der einen barocken Flügelaltar enthält.
 Mit der Glocke im Glockenturm sind zahlreiche Legenden verbunden. So sollen sich nach deren Läuten Wünsche erfüllen.
+
+
+![]({base}/img/06/Wunschglocke_Miha.jpg)
 <script>
 import { base } from "$app/paths";
 import Carousel from "$components/carousel.svelte";

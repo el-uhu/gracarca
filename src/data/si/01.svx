@@ -12,6 +12,8 @@ published: true
 > "in villa Gabrielis..."
 
 
+
+
 ## Kulturna pot in bralni znaki
 Grabalja vas leži v kulturni krajini, ki jo ljudje že tisočletja obdelujejo in oblikujejo. Na hribovitem območju med Klopinjskim in Zablaškim jezerom so gradili vasi, kmetije, gradove in cerkve. Pokojnikom so pripravili posebne grobne gomile ali jih pokopavali na pokopališčih. 
 
@@ -28,7 +30,11 @@ Na dveh istoimenskih gričih sta še danes ohranjeni 1000 let stari cerkvi Šent
 Za prepoznavanje teh zgodovinskih sledi so na pomembnih mestih postavljene table, ki so bralni znaki za nadaljnje informacije o zgodovini kraja, kjer se pravkar nahajate. S QR kodo lahko prek mobilne naprave pridete še do dodatnih vsebin.
 
 
+
+
 ## Gabrijelova vas
+
+
 Korenine Grabalje vasi segajo v 7. stoletje po Kristusu. V času slovanske kneževine Karantanije se je ob vznožju Gracarce naselila skupnost ljudi, o kateri je arheologija poučena le zaradi pokopališča.
 Prvič se Grabalja vas kot villa Gabrielis, Gabrijelova vas, pojavi v listinah okoli leta 1050. Domnevamo lahko, da je imenodajalec Gabrijel živel v 8. ali 9. stoletju in pripadal prvi generaciji pokristjanjenih Slovanov. S krstom so pogosto sprejeli svetopisemska oziroma starozavezna imena. 
 
@@ -37,6 +43,8 @@ Prvič se Grabalja vas kot villa Gabrielis, Gabrijelova vas, pojavi v listinah o
 
 
 Do leta 1090 so grabaljski vladarji, Gabrijelovi potomci, podarili briksenškemu samostanu večino svojih posestev: plemeniti Liuto, njegov brat Reginprecht ter plemenita Gotta so samostanu predali ducat hub, vrtove in vinograde.
+
+
 
 
 ## Svobodni kmetje in poletni turizem
@@ -48,7 +56,7 @@ Do leta 1090 so grabaljski vladarji, Gabrijelovi potomci, podarili briksenškemu
 Do revolucije leta 1848 so večinoma slovenski grabaljski kmetje delali na svojih kmetijah kot podložniki različnih plemiških posestnikov. Šele od sredine 19. stoletja so lahko dobili kmetije v last kmetje sami in vasi so začele dobivati današnji videz. 
 
 
-![]({base}/img/01/posestni_list.jpg)
+![]({base}/img/01/Urkunde_Web_2023-10-12.png)
 
 
 V povojnih letih naraščajoči turizem okoli jezer je poživil tudi Grabaljo vas. Okoli prvotnih kmetij je nastala obcestna vas, v kateri se je do danes tudi v vsakdanjem življenju ohranila značilna dvojezičnost z nemškim in slovenskim jezikom.

@@ -13,7 +13,16 @@ published: true
 
 
 ## Cultural trail and landscape presentation boards
-Grabelsdorf lies in a cultural landscape used and formed for thousands of years by the human being. In the hilly countryside between the lakes Klopeiner See and Turnersee (Sablatnigsee) villages, farmyards, fortresses and churches were built and deceased interred under burial mounds and in cemeteries. The 1000-year old churches of St. Daniel and St. George remain preserved on the hills until this day. Much more difficult to recognize are traces of the Iron Age settlement of Gracarca and accompanying cemetery above Grabelsdorf founded 3000 years ago.
+Grabelsdorf lies in a cultural landscape used and formed for thousands of years by the human being. In the hilly countryside between the lakes Klopeiner See and Turnersee (Sablatnigsee) villages, farmyards, fortresses and churches were built and deceased interred under burial mounds and in cemeteries. 
+
+
+![]({base}/img/01/Jauntal_pano.jpg)
+
+
+The 1000-year old churches of St. Daniel and St. George remain preserved on the hills until this day. Much more difficult to recognize are traces of the Iron Age settlement of Gracarca and accompanying cemetery above Grabelsdorf founded 3000 years ago.
+
+
+![]({base}/img/01/Kirche_LB1.jpg)
 
 
 Description boards were erected on important sites in order to read these historical traces. They are bookmarks for further information on the history of your current position. Through the QR code, further contents are accessible with a mobile device.
@@ -21,11 +30,33 @@ Description boards were erected on important sites in order to read these histor
 
 ## The village of Gabriel
 The roots of Grabelsdorf reach back to the 7th century A.D. A community which had settled at the foot of the Gracarca mountain during the Slavic principality of Carantania could only be approximated by archeology through its cemetery.
-The name Grabelsdorf appears for the first time in the documents dating from the time around 1050 as villa Gabrielis, the village of Gabriel. It is reasonable to assume that the eponymous Gabriel lived in the 8th or 9th century and belonged to the first generation of Christianized Slavs. With baptism, they very often assumed biblical names from the Old Testament. As rulers of Grabelsdorf, Gabriels descendants bequeathed most of their assets to the Hochstift Brixen by the year 1090:  the noble Liuto, his brother Reginprecht and the noble Gotta handed over a dozen agricultural estates (hub), gardens and vineyards.
+The name Grabelsdorf appears for the first time in the documents dating from the time around 1050 as villa Gabrielis, the village of Gabriel. It is reasonable to assume that the eponymous Gabriel lived in the 8th or 9th century and belonged to the first generation of Christianized Slavs. With baptism, they very often assumed biblical names from the Old Testament. 
+
+
+![]({base}/img/01/Schenkungen.png) 
+
+
+As rulers of Grabelsdorf, Gabriels descendants bequeathed most of their assets to the Hochstift Brixen by the year 1090:  the noble Liuto, his brother Reginprecht and the noble Gotta handed over a dozen agricultural estates (hub), gardens and vineyards.
+
+
 
 
 ## Free farmers and summer resort
-Up to the revolution 1848, the mainly Slovenian farmers in Grabelsdorf served as subjects on the farms of different aristocrat owners. Not until the middle of the 19th century could they purchase the farms and development towards today’s village structure began. Increasing tourism around the lakes since the years after the Second World War also led to revitalization in Grabelsdorf. Around the original farms a linear village came to exist in which the bilingualism typical for the region, with German and Slovenian language also spoken in everyday life was maintained.
+
+
+<iframe width="100%" height="300" src="https://maps.arcanum.com/de/map/cadastral/embed/?bbox=1622672.7269888588%2C5875407.237896863%2C1626301.0971752706%2C5876744.885891855&map-list=1&layers=osm%2C3%2C4" frameborder="0" allowfullscreen></iframe>
+
+
+Up to the revolution 1848, the mainly Slovenian farmers in Grabelsdorf served as subjects on the farms of different aristocrat owners. Not until the middle of the 19th century could they purchase the farms and development towards today’s village structure began. 
+
+
+![]({base}/img/01/Urkunde_Web_2023-10-12.png)
+
+
+Increasing tourism around the lakes since the years after the Second World War also led to an extension of Grabelsdorf. Around the original farms a linear village came to exist in which the bilingualism typical for the region, with German and Slovenian language also spoken in everyday life was maintained.
+
+
+![]({base}/img/01/Sommerfrische_AK_1953.jpg)
 <script>
 import { base } from "$app/paths";
 import Carousel from "$components/carousel.svelte";

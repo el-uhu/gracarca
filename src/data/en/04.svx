@@ -13,8 +13,19 @@ published: true
 
 
 ## Christian cemetery
-In the 8th and 9th century, Salzburg missionaries were sent to Eastern countries, also with the aim to baptize the population of the **Slavic principality Carantania**. In books from the 9th century, the efforts of communicating Christian faith to the heathen Slavs of present-day Carinthia are described. Most likely, the Church of St. Daniel was built soon after the success of the mission.
+In the 8th and 9th century, Salzburg missionaries were sent to Eastern countries, also with the aim to baptize the population of the **Slavic principality Carantania**. In books from the 9th century, the efforts of communicating Christian faith to the heathen Slavs of present-day Carinthia are described. 
+
+
+![]({base}/img/04/2Brizspomenik.jpg)
+
+
+Most likely, the Church of St. Daniel was built soon after the success of the mission.
 The old cemetery above Grabelsdorf  was abandoned and a new one was created around the church. Excavations in the year 2019 showed that the initial cemetery was also located outside the present day cemetery walls. 
+
+
+![]({base}/img/04/GR008203.jpg)
+
+
 The cemetery is still in use by residents of the surrounding villages.
 
 
@@ -22,9 +33,20 @@ The cemetery is still in use by residents of the surrounding villages.
 Gabriel, who was eponymous for the town of Grabelsdorf, comes into question as founder of the church. In the year 1050 the Church of St. Daniel belonged to several people as a proprietary church. It counts as proof for the existence of this place of worship at latest in the 10th century. In the year 1060 the Church of St. Daniel was property of the Bishop of Brixen in South Tyrol.  In the 12th century, St. Daniel fell into the hands of the Eberndorf monastery, was then bought by Count Albert III. of Tyrol around 1238 and henceforth a succursal church of the parish of Stein im Jauntal. As sole remnant of the Romanesque church fittings, a thurible of the 12th century survived, which is now in the Diocesan Museum in Gurk.
 
 
+<div class="sketchfab-embed-wrapper"> <iframe title="Weihrauchfass Grabelsdorf/Grabalja vas" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/24f3d19a218d42ff8a3a4b0356fcf540/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/weihrauchfass-grabelsdorfgrabalja-vas-24f3d19a218d42ff8a3a4b0356fcf540?utm_medium=embed&utm_campaign=share-popup&utm_content=24f3d19a218d42ff8a3a4b0356fcf540" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Weihrauchfass Grabelsdorf/Grabalja vas </a> by <a href="https://sketchfab.com/Novetus?utm_medium=embed&utm_campaign=share-popup&utm_content=24f3d19a218d42ff8a3a4b0356fcf540" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Novetus </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=24f3d19a218d42ff8a3a4b0356fcf540" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
+
+
+
+
 ## Late Gothic building
  
 The existing late Gothic church was built around 1500 on the remains of the Romanesque Church. The nave with an indented choir features a five-eighth ending. Decorative buttresses are situated on the exterior of the choir. The sanctuary shows a ribbed vaulting, the nave by contrast has a star ribbed vault on consoles. On figuratively decorated keystones Mary and child, Daniel and the lion, bishop with bishop`s mitre and book (St. Augustine) as well as a man with a shell, walking staff and wanderer hat (St. James) are depicted.
+
+
+<iframe width="100%" height="300" src="https://my.matterport.com/show/?m=h73KSAbCoFE" frameborder="0" allowfullscreen allow="xr-spatial-tracking"></iframe>
+
+
+In the course of the exterior renovation of the church in 2018, a depiction of St. Christopher was uncovered on the south wall. It dates from the transitional period from the late Renaissance to the early Baroque (around the first quarter of the 17th century) and was professionally restored in 2019.
 <script>
 import { base } from "$app/paths";
 import Carousel from "$components/carousel.svelte";

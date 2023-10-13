@@ -21,7 +21,7 @@ Die Gracarca (Aussprache: graˑˈt͡ʃaːrˌt͡saˑ; von slowenisch “grad/grad
 Der westliche Ausläufer (676 m) wird als Dreiseenblick bezeichnet, der mittlere langgestreckte Höhenrücken (672 m) weist zahlreiche urgeschichtliche Siedlungsterrassen auf und der östliche Georgiberg (624 m) war einst Standort einer mittelalterlichen, herzoglichen Burg.
 
 
-![]({base}/img/01/Überblickskarte.jpg)
+![]({base}/img/05/Überblickskarte.jpg)
 
 
 ## Eisenzeitliche Terrassen
@@ -33,15 +33,23 @@ Die größte Ausdehnung erlebte die Siedlung in der **jüngeren Eisenzeit** ab d
 Zu dieser Zeit dürfte die Gracarca eine der größten keltischen Siedlungen im Kärntner Raum gewesen sein. Die Siedlung bestand bis zur Annexion Noricums durch die Römer (15 v. Chr.) und wurde dann wohl  aufgegeben.
 
 
-![]({base}/img/01/Reko05_Gracarca02_Web_2023-10-12.jpg)
+![]({base}/img/05/Reko05_Gracarca02_Web_2023-10-12.jpg)
 
 
 ## Norisches Eisen
 
 
 Archäologische Untersuchungen am Ende des 20. Jahrhunderts konnten neben Spuren von Wohnhäusern und lokaler Textilproduktion auch Überreste von Metallverarbeitung feststellen. In der Zeit des keltischen *Regnum Noricum* standen die Kelten bereits in Kontakt mit den südlichen Nachbarn, den Römern. Vor allem qualitätsvolles Eisen, von den Römern als *Ferrum Noricum* bezeichnet, war sehr begehrt. Die Gracarca könnte eine wichtige Rolle im Handel gespielt haben.
-Das nördlich im Görtschitztal gewonnene Eisen könnte hier weiterverarbeitet und geprüft worden sein.    
+Das nördlich im Görtschitztal gewonnene Eisen könnte hier weiterverarbeitet und geprüft worden sein.   
+
+
+![]({base}/img/05/Messerfunde_Web_2023-10-12.png)
+![]({base}/img/05/Keys_Web_2023-10-12.png)
+ 
 Direkte Kontakte und möglicherweise auch Unterstützung für die lokalen Kelten durch die Römer zeigt ein Wasserauffangbecken aus der Endphase der Siedlung. Es ist in römischer Mauertechnik in den letzten Jahrzehnten des 1. Jahrhunderts v. Chr. errichtet worden.
+
+
+![]({base}/img/05/WassersammelbeckenG.jpg)
 <script>
 import { base } from "$app/paths";
 import Carousel from "$components/carousel.svelte";

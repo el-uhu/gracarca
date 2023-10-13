@@ -9,8 +9,12 @@ published: true
 
 
 # Gräberfeld
+
+
 > Löschten zuerst den glimmenden Schutt mit rötlichem Weine … Maßen den Kreis des Males … und häuften geschüttete Erde zum Hügel.
 *(Homer, Ilias, 23. Gesang)*
+
+
 
 
 ## Gräber der Eisenzeit und des Frühmittelalters
@@ -36,8 +40,6 @@ In der Eisenzeit wurden die Verstorbenen auf dem Scheiterhaufen verbrannt und di
 Knochenreste in Urnen bestattet. Manche der Gräber waren monumental angelegt und als Grabhügel in der Landschaft sichtbar.
 
 
-
-
 ![]({base}/img/02/urnengrab-flach.jpg)
 
 
@@ -48,8 +50,6 @@ Andere enthielten kleine Kammern, die als Steinkisten konstruiert waren oder sie
 
 
 Archäologische Untersuchungen seit den 1960er Jahren konnten etwa 80 Gräber bergen. Ursprünglich könnten hier in der Eisenzeit aber mehrere hundert Grabstätten angelegt worden sein.
-
-
 
 
 
@@ -75,6 +75,8 @@ Es stellt die typische Tracht einer angesehenen Frau der frühen Hallstattkultur
 ![]({base}/img/02/reko.png) 
 
 
+
+
 ## … und Schwerter
 
 
@@ -82,7 +84,9 @@ Es stellt die typische Tracht einer angesehenen Frau der frühen Hallstattkultur
 
 
 Keltische Jenseitsvorstellungen der Zeit um 300 v. Chr. spiegeln sich in einem Grab mit zeittypischer Kriegerausrüstung wider. Die Bewaffnung aus Eisen besteht aus einem Langschwert in einer Scheide aus verziertem Blech, der Schwertkette, einer Lanzenspitze und einem Schild. Sie wurde im Zuge der Begräbnisriten, als der Leichnam auf dem Scheiterhaufen verbrannt wurde, bewusst durch Verbiegen zerstört.  
-![]({base}/img/02/reko2.jpg)
+
+
+![]({base}/img/02/Reko03_web_2023-02-21.jpg)
 
 
 Die Überreste wurden in einer Keramikurne in einem Grabmal mit Steinpackung für die Reise ins Jenseits gebettet.

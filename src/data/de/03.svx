@@ -19,8 +19,15 @@ published: true
 ## Sichtbare Monumente
 
 
-Am Weg von Grabelsdorf auf die Gracarca liegt auf einem Sporn ein besonderer Platz. Vor über 2800 Jahren wurde oberhalb des Friedhofs der Bewohner der Gracarca-Siedlung eine kleine Gruppe Grabhügel errichtet. In ihnen wurden in der **Eisenzeit** (9.–1. Jh. v. Chr.) Verstorbene in Urnen bestattet.  
+Am Weg von Grabelsdorf auf die Gracarca liegt auf einem Sporn ein besonderer Platz. Vor über 2800 Jahren wurde oberhalb des allgemeinen Friedhofs der Bewohner der Gracarca-Siedlung eine kleine Gruppe Grabhügel errichtet. In ihnen wurden in der **Eisenzeit** (9.–1. Jh. v. Chr.) Verstorbene in Urnen bestattet. 
+
+
+![]({base}/img/03/Grabelsd-GrabA5d-5.jpg)
+ 
 Die Hügel waren lange Zeit als Grabmonumente erkennbar und so wählte hunderte Jahre später eine **frühmittelalterliche** Gemeinschaft den Ort erneut als ihren Friedhof. Zwischen den Grabhügeln wurden im späten 6. und 7. Jahrhundert n. Chr. Körpergräber angelegt.
+
+
+![]({base}/img/03/Frühmittelalterliche_Gräber.jpg)
 
 
 
@@ -29,17 +36,39 @@ Die Hügel waren lange Zeit als Grabmonumente erkennbar und so wählte hunderte 
 
 
 Im zentralen und größten Grabhügel wurde am Beginn der **älteren Eisenzeit** im 9. Jahrhundert v. Chr. eine hochstehende Persönlichkeit begraben, die mit damals sehr wertvollen eisernen Lanzenspitzen ausgestattet war.  
+
+
+![]({base}/img/03/Grabhügel_Beigaben_EZ.jpg)
+![]({base}/img/03/Reko01-Color_Web_2023-10-12.png)
+
+
 Diese Brandbestattung blieb nicht das einzige Grab im Hügel. In der Zeit vom 8. bis 5. Jahrhundert folgten weitere Bestattungen in tönernen Urnen im Grabhügel und um ihn herum. In **keltischer Zeit**, im 3. und 2. Jahrhundert v. Chr., wurden am Rand des Hügels eiserne Waffen deponiert.
+
+
 
 
 ## Zwischen West und Ost
 
 
-Im **Frühmittelalter**, in der Zeit um 700 n. Chr., wurde der zentrale Grabhügel erneut für eine Bestattung ausgewählt. Aus der reichhaltigen Ausrüstung die dem Toten mitgegeben wurde können wir einige Informationen zum Verstorbenen gewinnen:  
+Im **Frühmittelalter**, in der Zeit um 700 n. Chr., wurde der zentrale Grabhügel erneut für eine Bestattung ausgewählt. 
+
+
+![]({base}/img/03/Tafel3_Karantanengrab_Web_2023-10-12.jpg)
+
+
+Aus der reichhaltigen Ausrüstung die dem Toten mitgegeben wurde können wir einige Informationen zum Verstorbenen gewinnen:  
 Der hochgewachsene Mann darf als hochrangige Persönlichkeit im selbständigen **slawischen Fürstentum Karantanien** angesehen werden. Seine Waffe, ein Sax mit einer Klinge aus Furnierdamast, zeigt Verbindungen zum Fränkischen Reich im Westen. Die gegossenen
 Riemenzungen des Militärgürtels haben ihre Vorbilder im Osten, im byzantinischen und awarischen Raum. Ein Sporn weist ihn als Reiter aus.   
+
+
+![]({base}/img/03/reko2_Beigaben.jpg)
+
+
 Ob er ein Fürst (“Knez”), ein regionaler Amtsträger (“Ban”) oder doch ein lokaler Anführer eines Siedlungsverbandes (“Župan”) war, lässt
 sich nicht mit Sicherheit sagen.
+
+
+![]({base}/img/03/Reko02-color_Web_2023-10-12.png)
 <script>
 import { base } from "$app/paths";
 import Carousel from "$components/carousel.svelte";

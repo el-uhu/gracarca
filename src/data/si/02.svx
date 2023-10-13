@@ -13,11 +13,19 @@ published: true
 *(Homer, Ilias, 23. Gesang)*
 
 
+
+
 ## Grobovi iz železne dobe in zgodnjega srednjega veka
+
+
 Vzpetino nad Grabaljo vasjo so uporabljali za pokopavanje že pred 2800 leti. Na začetku železne dobe, v tako imenovani **halštatski kulturi** (9. do 4. stoletje pred Kristusom), so prebivalci naselbine na Gracarci tu uredili grobišče. V 4. stoletju pred Kristusom je grobišče prevzelo keltizirano prebivalstvo in ga uporabljalo vse do začetka rimskega obdobja (15. stoletje pred Kristusom). V rimski dobi tukaj niso pokopavali, najdena okostja iz zgodnjega srednjega veka (7. in 8. stoletje po Kristusu) pa pričajo o tem, da so prostoru pozneje vrnili prejšnji namen in ga spet uporabljali kot pokopališče.
 
 
+
+
 ## Grobne gomile, kamnite grobnice in žare
+
+
 ![]({base}/img/02/urnengrab-hügel.jpg)
 
 
@@ -61,14 +69,18 @@ To je bila tipična noša ugledne ženske iz obdobja zgodnje halštatske kulture
 *Rekonstruirana podoba ženske halštatske kulture na podlagi grobnih najdb iz Grabalje vasi (9./8. stoletje pred našim štetjem).*
 
 
+
+
 ## … in meči
+
+
 ![]({base}/img/02/gefaltenes_schwert_web.jpg) 
 
 
 Keltske predstave o posmrtnem življenju v času okoli leta 300 pred Kristusom se odražajo v grobu s tipično bojevniško opremo. Bojevniku je bilo v grob pridano železno orožje: dolg meč v okrašeni železni nožnici, sulična ost in okovje ščita. Orožje so pri pogrebnim obredu zvili, da ni bilo več uporabno, in ga skupaj s truplom sežgali na grmadi. Ostanke so dali v lončeno žaro in jih pokopali v grobno jamo, ki so jo obložili s kamenjem, ter tako pokojniku utrli pot v onostranstvo.
 
 
-![]({base}/img/02/reko2.jpg)
+![]({base}/img/02/Reko03_web_2023-02-21.jpg)
 *Scenski prikaz obrednega uničenja orožja keltskega bojevnika med pokopom, ki temelji na grobnih najdbah iz Grabalje vasi (ok. 300 pr. n. št.).*
 <script>
 import { base } from "$app/paths";

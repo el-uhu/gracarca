@@ -12,17 +12,40 @@ published: true
 > “castrum sancti Georgii in Iovntal”
 
 
+
+
 ## Izginuli grad
+
+
 Šentjur je vzhodni obronek Gracarce z najvišjo točko 624 m. Izhajamo lahko iz tega, da je bil tudi v železni dobi (9.–1. stol. pr. Kr.) povezan z naseljem na zahodnem delu grebena. Vendar doslej še niso bile najdene arheološke sledi iz tega obdobja.
-Danes stoji na vrhu Šentjurja cerkev, ki je v jedru romanska. Poleg nje je bil v visokem srednjem veku verjetno vojvodski grad. O tem priča zapis castrum iz let 1267/1268. Doslej ni bilo mogoče proučiti arheoloških sledi, pri izkopavanjih so bile najdene zgolj puščica za samostrel in lončene posode za kuhanje. Grad so opustili verjetno med nasledstvenimi boji v vojvodini Koroški ob koncu 13. stoletja. Na zgornjem predelu zahodnega pobočja so danes še prepoznavni ostanki obzidja, ki pa so bili zasuti z materiali iz poznega srednjega veka. Vendar obzidje ne izvira iz časa pred 15. stoletjem in torej ni moglo biti del gradu.
-Grad pa je zapustil sledi v ledinskih in krajevnih imenih. Na grad navezujeta kraja ob vznožju Šentjurja, Podgrad in Zgornji Podgrad. Tudi Klopinjsko jezero je bilo v 13. stoletju poimenovano po gradu oziroma cerkvi, lacum sancti Georgii (Šentjurjevo jezero).
+Danes stoji na vrhu Šentjurja cerkev, ki je v jedru romanska. Poleg nje je bil v visokem srednjem veku verjetno vojvodski grad. O tem priča zapis castrum iz let 1267/1268. Doslej ni bilo mogoče proučiti arheoloških sledi, pri izkopavanjih so bile najdene zgolj puščica za samostrel in lončene posode za kuhanje. Grad so opustili verjetno med nasledstvenimi boji v vojvodini Koroški ob koncu 13. stoletja. 
+
+
+![]({base}/img/06/Kirche_Miha.jpg)
+
+
+Na zgornjem predelu zahodnega pobočja so danes še prepoznavni ostanki obzidja, ki pa so bili zasuti z materiali iz poznega srednjega veka. Vendar obzidje ne izvira iz časa pred 15. stoletjem in torej ni moglo biti del gradu.
+Grad pa je zapustil sledi v ledinskih in krajevnih imenih. Na grad navezujeta kraja ob vznožju Šentjurja, Podgrad in Zgornji Podgrad. Tudi Klopinjsko jezero je bilo v 13. stoletju poimenovano po gradu oziroma cerkvi, *lacum sancti Georgii* (Šentjurjevo jezero).
+
+
+<iframe width="100%" height="300" src="https://maps.arcanum.com/de/map/thirdsurvey25000/embed/?bbox=1622550.3376803533%2C5875987.239142394%2C1629807.0780531773%2C5878662.535132375&map-list=1&layers=129" frameborder="0" allowfullscreen></iframe>
 
 
 
 
 ## Kapelica in zvonček želja
-Cerkev na Šentjurju je bila prvič omenjena v dokumentih iz leta 1060. Briksenški ministerial Noppo je posestva okoli cerkve podaril briksenški škofiji. V jedru cerkvene ladje so ohranjeni še deli zidu iz 11. stoletja. Današnja podoba cerkve je rezultat številnih prezidav. Kmalu po letu 1500 so zgradili poznogotski oltarni prostor (prezbiterij) s poligono apsido in mrežastorebrastim obokom. Po požaru v letu 1643 so severno steno ojačili z močnimi oporniki in ladjo opremili s križnogrebenastim obokom s tremi travejami ter ozkim šilastim slavolokom. Iz poznogotskega obdobja so tudi poslikave na stenah oltarnega prostora, ki prikazujejo dvanajst apostolov.
+
+
+Cerkev na Šentjurju je bila prvič omenjena v dokumentih iz leta 1060. Briksenški ministerial Noppo je posestva okoli cerkve podaril briksenški škofiji. V jedru cerkvene ladje so ohranjeni še deli zidu iz 11. stoletja. Današnja podoba cerkve je rezultat številnih prezidav. Kmalu po letu 1500 so zgradili poznogotski oltarni prostor (prezbiterij) s poligono apsido in mrežastorebrastim obokom. Po požaru v letu 1643 so severno steno ojačili z močnimi oporniki in ladjo opremili s križnogrebenastim obokom s tremi travejami ter ozkim šilastim slavolokom. Iz poznogotskega obdobja so tudi poslikave na stenah oltarnega prostora, ki prikazujejo apostole.
+
+
+![]({base}/img/06/Glocke01_Web_2023-10-12.png)
+
+
 Na južni strani je prizidana kapelica z banjastim obokom in baročnim krilnim oltarjem. Na slemenu je stolpec z zvoncem. Z njim so povezane številne legende. Kdor z njim pozvoni, naj bi se mu izpolnila želja.
+
+
+![]({base}/img/06/Wunschglocke_Miha.jpg)
 <script>
 import { base } from "$app/paths";
 import Carousel from "$components/carousel.svelte";
