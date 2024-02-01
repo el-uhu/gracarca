@@ -1,6 +1,7 @@
 <script>
 	import { base } from '$app/paths'
 	import { page } from '$app/stores'
+	import LangLinkHeader from './helpers/LangLinkHeader.svelte';
 
 	export let lang;
 	
@@ -19,11 +20,11 @@
 	</div>
 	<div id="lang-selection">
 		<ul>
-			<li><a target="_self" href="{$page.url.pathname.replace("/"+lang+"/", '/en/')}" class:active="{lang === "en"}">en</a></li>
+			<LangLinkHeader thislang={lang} targetlang="en"/>
 			<li>|</li>
-			<li><a target="_self" href="{$page.url.pathname.replace("/"+lang+"/", '/si/')}" class:active="{lang === "si"}">si</a></li>
+			<LangLinkHeader thislang={lang} targetlang="si"/>
 			<li>|</li>
-			<li><a target="_self" href="{$page.url.pathname.replace("/"+lang+"/", '/de/')}" class:active="{lang === "de"}">de</a></li>
+			<LangLinkHeader thislang={lang} targetlang="de"/>
 		</ul>
 	</div>
 </header>
@@ -47,15 +48,6 @@
 		align-items: center;
 		margin-left: auto;
 		margin-right: 2em;
-	}
-	#lang-selection a {
-		text-decoration: none;
-		border-bottom: none;
-		color: var(--color-t-blue);
-	}
-	#lang-selection a.active {
-		font-weight: 900;
-		color: var(--color-h-blue);
 	}
 	#lang-selection ul {
 		list-style: none;
