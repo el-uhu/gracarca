@@ -35,7 +35,7 @@
 			{#each links as link}
 				<li>
 					<a href={link.url}>
-						<img src={link.logo} width=150px />
+						<img src={link.logo} alt="" width=150px />
 						<!-- <span>
 							<b>
 								{link.name.toUpperCase()}
