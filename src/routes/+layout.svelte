@@ -27,10 +27,11 @@
 
 <Meta />
 <!-- <GracarcaMapModel cameraSettings={cameraSettings[$cameraPosition]}/> -->
-<Sketchfab camera={$camera}/>
+
 
 
 <main id="content">
+	<Sketchfab camera={$camera}/>
 	<PageTransition url={data.url}>
 		<slot />
 	</PageTransition>
