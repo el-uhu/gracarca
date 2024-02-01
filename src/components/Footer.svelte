@@ -35,12 +35,11 @@
 			{#each links as link}
 				<li>
 					<a href={link.url}>
-						<img src={link.logo} alt="" width=150px />
-						<!-- <span>
-							<b>
-								{link.name.toUpperCase()}
-							</b>
-						</span> -->
+						{#if link.logo}
+							<img src={link.logo} alt={link.name} width=150px />
+						{:else}
+							{link.name}
+						{/if}
 					</a>
 				</li>
 			{/each}

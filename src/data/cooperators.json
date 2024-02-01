@@ -8,5 +8,33 @@
         "name": "Novetus",
         "url": "https://www.novetus.at/",
         "logo": "/img/logos/novetus.svg"
+    },
+    {
+        "name": "Bundeskanzleramt - Volksgruppen",
+        "url": "https://www.bundeskanzleramt.gv.at/themen/volksgruppen.html",
+        "logo": "/img/logos/bundeskanzleramt.png"
+    },
+    {
+        "name": "Land Kärnten",
+        "url": "https://www.ktn.gv.at",
+        "logo": "/img/logos/koroska.png"
+    },
+    { 
+        "name": "Gemeinde St.Kanzian",
+        "url": "https://kanzian.at",
+        "logo": "/img/logos/skanzian.png"
+    },
+    {
+        "name": "Tourismusregion Klopeinersee",
+        "url": "https://www.klopeinersee.at",
+        "logo": "/img/logos/klopeinersee.png"
+    },
+    {
+        "name": "Pfarre St.Kanzian",
+        "url" : "https://pfarre.st.kanzian.at"
+    },
+    {
+        "name": "St. Veit im Jauntal/Št. Vid v Podjuni",
+        "url": "https://www.kath-kirche-kaernten.at/pfarren/pfarre/C2936"
     }
 ]
