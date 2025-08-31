@@ -14,7 +14,7 @@
 		"@dimforge/rapier3d-compat": "^0.11.2",
 		"@rollup/plugin-dsv": "^3.0.4",
 		"@sveltejs/adapter-static": "2.0.1",
-		"@sveltejs/adapter-vercel": "^3.0.3",
+		"@sveltejs/adapter-vercel": "^4.0.5",
 		"@sveltejs/kit": "^1.25.2",
 		"@theatre/core": "^0.6.2",
 		"@theatre/studio": "^0.6.2",
@@ -47,7 +47,7 @@
 	},
 	"type": "module",
 	"engines": {
-		"node": ">= 18.12.0"
+		"node": "22.x"
 	},
 	"browserslist": "> 0.5%, last 4 versions, not ie <= 11, not ie_mob <= 11",
 	"subdirectory": "svelte-starter",

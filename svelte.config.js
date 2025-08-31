@@ -28,6 +28,7 @@ const config = {
 		preprocessThrelte()]),
 	kit: {
 		adapter: adapter({
+			runtime: 'nodejs20.x',
 			pages: 'build',
 			assets: 'build',
 			fallback: null,
